@@ -1,0 +1,1001 @@
+record_id,Name,SIN,StreetNumber,Street,City,Province,PostalCode,DOB,PhoneNum
+rec-2019-id,Cassidy Mcguire,778 306 225,38580,Margaret Corners,New Jacobport,Northwest Territories,81493,1978-02-20,380-955-0858 x360
+rec-2019-id-dup-0,Cassidy Mcguire,778 306 225,38580,Margaret Co rners,New Jacobport,Northwest Territories,81493,1978-02-20,380-955-0858 x360
+rec-2019-id-dup-1,Cassidy Mcguire,778 306 225,38580,Mitchell Key,New Jacobport,Northwest Territories,81493,1978-02-20,380-955-0858 x360
+rec-2019-id-dup-2,Cassidy Mcguire,778 306 225,38580,Margare t Corners,New Jacobport,Northwest Territories,81493,1978-02-20,380-955-0858 x360
+rec-2020-id,Natalie Malone,581 304 227,18441,Christopher Mountains,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2020-id-dup-0,Natalie Malone,581 304 227,18441,Collins Extensions,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2020-id-dup-1,Natalie Malone,581 304 227,18441,David Port,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2020-id-dup-2,Natalie Malone,581 304 227,18441,Christopher Mountains,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2020-id-dup-3,Natalie Malone,581 304 227,18441,Johnson Brook,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2020-id-dup-4,Natalie Malone,581 304 227,18441,Christopher M ountains,Lake Josephfort,New Brunswick,25498,1984-05-25,(919) 508-9170
+rec-2021-id,Bailey Ramirez,176 146 884,583,Smith Glen,North Christopher,Nova Scotia,53637,1996-04-17,+1 (936) 947-9671
+rec-2021-id-dup-0,Bailey Ramirez,176 146 884,583,Smith Glen,North Christopher,Nova Scotia,53637,1996-04-17,+1 (936) 947-9671
+rec-2021-id-dup-1,Bailey Ramirez,176 146 884,583,Conley Port,North Christopher,Nova Scotia,53637,1996-04-17,+1 (936) 947-9671
+rec-2021-id-dup-2,Bailey Ramirez,176 146 884,583,Smith G len,North Christopher,Nova Scotia,53637,1996-04-17,+1 (936) 947-9671
+rec-2022-id,Daniel Ellis,740 316 278,5426,Scott Path,Juanfurt,Saskatchewan,71748,1993-02-26,(926) 972-6062
+rec-2022-id-dup-0,Daniel Ellis,740 316 278,5426,Scott Path,Juanfurt,Saskatchewan,71748,1993-02-26,(926) 972-6062
+rec-2022-id-dup-1,Daniel Ellis,740 316 278,5426,Malone Courts,Juanfurt,Saskatchewan,71748,1993-02-26,(926) 972-6062
+rec-2022-id-dup-2,Daniel Ellis,740 316 278,5426,Scott Path,Juanfurt,Saskatchewan,71748,1993-02-26,(926) 972-6062
+rec-2023-id,April Fox,627 154 164,565,Wright Roads,Fletcherchester,Manitoba,84557,1984-02-21,789-413-0272 x331
+rec-2023-id-dup-0,April Fox,627 154 164,565,Julie Summit,Fletcherchester,Manitoba,84557,1984-02-21,789-413-0272 x331
+rec-2023-id-dup-1,April Fox,627 154 164,565,Wright R oads,Fletcherchester,Manitoba,84557,1984-02-21,789-413-0272 x331
+rec-2024-id,Dylan Heath,073 574 238,979,Trevor Pines,South Ericmouth,Nova Scotia,97685,1990-01-20,207 478 8287
+rec-2024-id-dup-0,Dylan Heath,073 574 238,979,Pines Trevor,South Ericmouth,Nova Scotia,97685,1990-01-20,207 478 8287
+rec-2024-id-dup-1,Dylan Heath,073 574 238,979,Trevor Pines,South Ericmouth,Nova Scotia,97685,1990-01-20,207 478 8287
+rec-2025-id,Amy Brown,308 725 720,0610,Lori Expressway,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2025-id-dup-0,Amy Brown,308 725 720,0610,Brown Ford,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2025-id-dup-1,Amy Brown,308 725 720,0610,Lori Expr essway,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2025-id-dup-2,Amy Brown,308 725 720,0610,Lori Expressway,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2025-id-dup-3,Amy Brown,308 725 720,0610,Foster Forge,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2025-id-dup-4,Amy Brown,308 725 720,0610,,North Thomaston,Yukon Territory,58546,1987-05-31,1-699-326-0295
+rec-2026-id,Gregory Lewis,016 782 161,629,Shannon Mission,East Kelly,Ontario,11988,1992-01-11,(647) 148-5403 x080
+rec-2026-id-dup-0,Lewis Gregory,016 782 161,629,Shannon Mission,East Kelly,Ontario,11988,1992-01-11,(647) 148-5403 x080
+rec-2026-id-dup-1,Gregory Lewis,016 782 161,629,Shannon Msision,East Kelly,Ontario,11988,1992-01-11,(647) 148-5403 x080
+rec-2026-id-dup-2,Gregory Lewis,016 782 161,629,Dunn Trace,East Kelly,Ontario,11988,1992-01-11,(647) 148-5403 x080
+rec-2027-id,Sharon Kelly,650 446 271,6666,Justin Greens,Gilbertfurt,British Columbia,67147,1977-10-03,(403) 538-1759
+rec-2027-id-dup-0,Sharon Kelly,650 446 271,6666,Justin Greens,Gilbertfurt,British Columbia,67147,1977-10-03,(403) 538-1759
+rec-2027-id-dup-1,Sharon Kelly,650 446 271,6666,,Gilbertfurt,British Columbia,67147,1977-10-03,(403) 538-1759
+rec-2027-id-dup-2,Sharon Kelly,650 446 271,6666,,Gilbertfurt,British Columbia,67147,1977-10-03,(403) 538-1759
+rec-2027-id-dup-3,Sharon Kelly,650 446 271,6666,Justin G reens,Gilbertfurt,British Columbia,67147,1977-10-03,(403) 538-1759
+rec-2028-id,Karen Knight,547 306 225,381,Wheeler Rest,Ramirezchester,British Columbia,30010,1983-02-10,(707) 844-7634
+rec-2028-id-dup-0,Karen Knight,547 306 225,381,,Ramirezchester,British Columbia,30010,1983-02-10,(707) 844-7634
+rec-2028-id-dup-1,Karen Knight,547 306 225,381,,Ramirezchester,British Columbia,30010,1983-02-10,(707) 844-7634
+rec-2028-id-dup-2,Karen Knight,547 306 225,381,Rest Wheeler,Ramirezchester,British Columbia,30010,1983-02-10,(707) 844-7634
+rec-2029-id,Elizabeth Best,744 166 059,97031,Steele Field,Elizabethshire,Saskatchewan,46347,1995-05-16,1 (608) 934-4257
+rec-2029-id-dup-0,Elizabeth Best,744 166 059,97031,Steele iFeld,Elizabethshire,Saskatchewan,46347,1995-05-16,1 (608) 934-4257
+rec-2029-id-dup-1,Elizabeth Best,744 166 059,97031,Field Steele,Elizabethshire,Saskatchewan,46347,1995-05-16,1 (608) 934-4257
+rec-2029-id-dup-2,Elizabeth Best,744 166 059,97031,,Elizabethshire,Saskatchewan,46347,1995-05-16,1 (608) 934-4257
+rec-2029-id-dup-3,Elizabeth Best,744 166 059,97031,,Elizabethshire,Saskatchewan,46347,1995-05-16,1 (608) 934-4257
+rec-2030-id,Laura Aguilar,230 672 552,1992,Deborah Streets,Port Tiffany,Quebec,85783,1971-01-29,1-962-066-6095
+rec-2030-id-dup-0,Laura Aguilar,230 672 552,1992,Streets Deborah,Port Tiffany,Quebec,85783,1971-01-29,1-962-066-6095
+rec-2030-id-dup-1,Laura Aguilar,230 672 552,1992,Streets Deborah,Port Tiffany,Quebec,85783,1971-01-29,1-962-066-6095
+rec-2030-id-dup-2,Laura Aguilar,230 672 552,1992,Streets Deborah,Port Tiffany,Quebec,85783,1971-01-29,1-962-066-6095
+rec-2031-id,Dana Middleton,511 073 462,3802,Thompson Camp,Nicolefurt,Prince Edward Island,34651,2002-09-24,465-881-7851 x918
+rec-2031-id-dup-0,Dana Middleton,511 073 462,3802,Phyllis Court,Nicolefurt,Prince Edward Island,34651,2002-09-24,465-881-7851 x918
+rec-2031-id-dup-1,Anna Thompson,511 073 462,3802,Thompson Camp,Nicolefurt,Prince Edward Island,34651,2002-09-24,465-881-7851 x918
+rec-2031-id-dup-2,Dana Middleton,511 073 462,3802,,Nicolefurt,Prince Edward Island,34651,2002-09-24,465-881-7851 x918
+rec-2031-id-dup-3,Dana Middleton,511 073 462,3802,Thomp son Camp,Nicolefurt,Prince Edward Island,34651,2002-09-24,465-881-7851 x918
+rec-2032-id,Matthew Ray,862 308 129,85159,Jones Court,Davismouth,Nova Scotia,77464,1989-03-12,802.929.3597
+rec-2032-id-dup-0,Matthew Ray,862 308 129,85159,Jones oCurt,Davismouth,Nova Scotia,77464,1989-03-12,802.929.3597
+rec-2032-id-dup-1,Matthew Ray,862 308 129,85159,,Davismouth,Nova Scotia,77464,1989-03-12,802.929.3597
+rec-2032-id-dup-2,Matthew Ray,862 308 129,85159,Court Jones,Davismouth,Nova Scotia,77464,1989-03-12,802.929.3597
+rec-2033-id,Antonio Patterson,068 352 186,774,Gray Coves,West Lindsayshire,Northwest Territories,68067,1986-08-23,(241) 600-9706 x514
+rec-2033-id-dup-0,Antonio Patterson,068 352 186,774,Gray Coves,West Lindsayshire,Northwest Territories,68067,1986-08-23,(241) 600-9706 x514
+rec-2033-id-dup-1,Antonio Patterson,068 352 186,774,,West Lindsayshire,Northwest Territories,68067,1986-08-23,(241) 600-9706 x514
+rec-2033-id-dup-2,Antonio Patterson,068 352 186,774,Gray Coves,West Lindsayshire,Northwest Territories,68067,1986-08-23,(241) 600-9706 x514
+rec-2034-id,Denise Villegas,547 201 160,7709,Gene Ford,Melissaburgh,British Columbia,32298,1978-07-16,709-170-2338
+rec-2034-id-dup-0,Denise Villegas,547 201 160,7709,Christopher Rapids,Melissaburgh,British Columbia,32298,1978-07-16,709-170-2338
+rec-2034-id-dup-1,Denise Villegas,547 201 160,7709,Gene Fo rd,Melissaburgh,British Columbia,32298,1978-07-16,709-170-2338
+rec-2034-id-dup-2,Denise Villegas,547 201 160,7709,Gene Ford,Melissaburgh,British Columbia,32298,1978-07-16,709-170-2338
+rec-2034-id-dup-3,Christopher Allen,547 201 160,7709,Gene Ford,Melissaburgh,British Columbia,32298,1978-07-16,709-170-2338
+rec-2035-id,James Gibson,542 860 325,99302,Atkinson Spring,Port Zacharyland,British Columbia,72429,1980-03-24,242 111 6465
+rec-2035-id-dup-0,James Gibson,542 860 325,99302,Atkinson Spring,Port Zacharyland,British Columbia,72429,1980-03-24,242 111 6465
+rec-2035-id-dup-1,James Gibson,542 860 325,99302,,Port Zacharyland,British Columbia,72429,1980-03-24,242 111 6465
+rec-2035-id-dup-2,James Gibson,542 860 325,99302,Atkins on Spring,Port Zacharyland,British Columbia,72429,1980-03-24,242 111 6465
+rec-2035-id-dup-3,James Gibson,542 860 325,99302,,Port Zacharyland,British Columbia,72429,1980-03-24,242 111 6465
+rec-2036-id,Stephanie Miller,653 807 412,98718,Samantha Camp,North Martha,Nova Scotia,72050,1978-03-13,1-120-073-4348
+rec-2036-id-dup-0,Stephanie Miller,653 807 412,98718,Camp Samantha,North Martha,Nova Scotia,72050,1978-03-13,1-120-073-4348
+rec-2036-id-dup-1,Alyssa Gray,653 807 412,98718,Samantha Camp,North Martha,Nova Scotia,72050,1978-03-13,1-120-073-4348
+rec-2036-id-dup-2,Stephanie Miller,653 807 412,98718,Samant ha Camp,North Martha,Nova Scotia,72050,1978-03-13,1-120-073-4348
+rec-2037-id,Kathryn Bowers,038 216 271,3705,Lawrence Plains,Jasonmouth,Nunavut,74603,1970-08-28,(884) 423-2034
+rec-2037-id-dup-0,Kathryn Bowers,038 216 271,3705,,Jasonmouth,Nunavut,74603,1970-08-28,(884) 423-2034
+rec-2037-id-dup-1,Kathryn B owers,038 216 271,3705,Lawrence Plains,Jasonmouth,Nunavut,74603,1970-08-28,(884) 423-2034
+rec-2037-id-dup-2,Kathryn Bowers,038 216 271,3705,,Jasonmouth,Nunavut,74603,1970-08-28,(884) 423-2034
+rec-2038-id,Jacob Poole,370 264 111,3158,Yoder Shores,Ayalaland,Nunavut,05829,2006-09-13,145 891 5876
+rec-2038-id-dup-0,Jacob Poole,370 264 111,3158,Shores Yoder,Ayalaland,Nunavut,05829,2006-09-13,145 891 5876
+rec-2038-id-dup-1,Jacob Poole,370 264 111,3158,Yoder S hores,Ayalaland,Nunavut,05829,2006-09-13,145 891 5876
+rec-2038-id-dup-2,Jacob Poole,370 264 111,3158,Yoder Shores,Ayalaland,Nunavut,05829,2006-09-13,145 891 5876
+rec-2039-id,Rhonda Moore,465 328 102,24852,Benjamin Roads,Huntport,Alberta,13523,1978-06-01,1-217-247-2804
+rec-2039-id-dup-0,Dawn Fitzgerald,465 328 102,24852,Benjamin Roads,Huntport,Alberta,13523,1978-06-01,1-217-247-2804
+rec-2039-id-dup-1,Rhonda Moore,465 328 102,24852,Roads Benjamin,Huntport,Alberta,13523,1978-06-01,1-217-247-2804
+rec-2040-id,Kristin Thompson,471 308 247,236,Mary Mission,Erictown,Manitoba,19165,1981-04-05,645 201 2439
+rec-2040-id-dup-0,Kristin Thompson,471 308 247,236,,Erictown,Manitoba,19165,1981-04-05,645 201 2439
+rec-2040-id-dup-1,Kristin Thompson,471 308 247,236,,Erictown,Manitoba,19165,1981-04-05,645 201 2439
+rec-2041-id,Stephen Warren,586 204 356,1680,Boone Street,Nicholasborough,Newfoundland and Labrador,13331,1995-12-31,609 114 1443
+rec-2041-id-dup-0,Stephen Warren,586 204 356,1680,Boone Street,Nicholasborough,Newfoundland and Labrador,13331,1995-12-31,609 114 1443
+rec-2041-id-dup-1,Stephen Warren,586 204 356,1680,Street Boone,Nicholasborough,Newfoundland and Labrador,13331,1995-12-31,609 114 1443
+rec-2041-id-dup-2,Stephen Warren,586 204 356,1680,Roberts Camp,Nicholasborough,Newfoundland and Labrador,13331,1995-12-31,609 114 1443
+rec-2042-id,Andrew Mckinney,411 458 334,84803,Pamela Mountain,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2042-id-dup-0,Andrew Mckinney,411 458 334,84803,Pamela Mountain,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2042-id-dup-1,Andrew Mckinney,411 458 334,84803,Mountain Pamela,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2042-id-dup-2,Andrew Mckinney,411 458 334,84803,Amanda Junction,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2042-id-dup-3,Andrew Mckinney,411 458 334,84803,Pamela Mountain,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2042-id-dup-4,Andrew Mckinney,411 458 334,84803,Andre Rest,North Carol,Nova Scotia,14737,2014-09-13,1-883-553-9328
+rec-2043-id,Todd Davis,443 165 774,070,Laura Fort,Gregoryshire,Newfoundland and Labrador,02507,1992-03-04,1-935-031-9790
+rec-2043-id-dup-0,Todd Davis,443 165 774,070,Laura F ort,Gregoryshire,Newfoundland and Labrador,02507,1992-03-04,1-935-031-9790
+rec-2043-id-dup-1,Todd Davis,443 165 774,070,Laura Fo rt,Gregoryshire,Newfoundland and Labrador,02507,1992-03-04,1-935-031-9790
+rec-2044-id,Tyler Barnett,334 577 814,1349,Jackson Points,Lake Patriciachester,Prince Edward Island,84841,2003-05-12,403-826-0821 x725
+rec-2044-id-dup-0,Tyler Barnett,334 577 814,1349,Jackson Points,Lake Patriciachester,Prince Edward Island,84841,2003-05-12,403-826-0821 x725
+rec-2044-id-dup-1,Tyler Barnett,334 577 814,1349,Points Jackson,Lake Patriciachester,Prince Edward Island,84841,2003-05-12,403-826-0821 x725
+rec-2044-id-dup-2,Tyler Barnett,334 577 814,1349,,Lake Patriciachester,Prince Edward Island,84841,2003-05-12,403-826-0821 x725
+rec-2044-id-dup-3,Tyler Barnett,334 577 814,1349,,Lake Patriciachester,Prince Edward Island,84841,2003-05-12,403-826-0821 x725
+rec-2045-id,Nicole Herrera,056 652 241,1584,Linda Summit,Jaredville,Nunavut,09074,1971-01-29,368.853.0048
+rec-2045-id-dup-0,Nicole Herrera,056 652 241,1584,Summit Linda,Jaredville,Nunavut,09074,1971-01-29,368.853.0048
+rec-2045-id-dup-1,Nicole Herrera,056 652 241,1584,Linda Smumit,Jaredville,Nunavut,09074,1971-01-29,368.853.0048
+rec-2045-id-dup-2,Nicole Herrera,056 652 241,1584,Summit Linda,Jaredville,Nunavut,09074,1971-01-29,368.853.0048
+rec-2046-id,Rachel Casey,307 561 548,29499,Carter Square,Sheilachester,New Brunswick,81930,1979-09-12,467-420-6515 x347
+rec-2046-id-dup-0,Rachel Casey,307 561 548,29499,Perry Isle,Sheilachester,New Brunswick,81930,1979-09-12,467-420-6515 x347
+rec-2046-id-dup-1,Rachel Casey,307 561 548,29499,Carter Square,Sheilachester,New Brunswick,81930,1979-09-12,467-420-6515 x347
+rec-2046-id-dup-2,Rachel Casey,307 561 548,29499,,Sheilachester,New Brunswick,81930,1979-09-12,467-420-6515 x347
+rec-2047-id,Veronica Miller,078 668 258,1912,Stephanie Parks,Lake Michael,Nova Scotia,86798,2007-02-12,1 (872) 323-1518
+rec-2047-id-dup-0,Veronica Miller,078 668 258,1912,Stephani e Parks,Lake Michael,Nova Scotia,86798,2007-02-12,1 (872) 323-1518
+rec-2047-id-dup-1,Veronica Miller,078 668 258,1912,Parks Stephanie,Lake Michael,Nova Scotia,86798,2007-02-12,1 (872) 323-1518
+rec-2047-id-dup-2,Veronica Miller,078 668 258,1912,Stephani e Parks,Lake Michael,Nova Scotia,86798,2007-02-12,1 (872) 323-1518
+rec-2048-id,Veronica Wong,773 013 818,02805,Moore Viaduct,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2048-id-dup-0,,773 013 818,02805,Moore Viaduct,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2048-id-dup-1,Veronica Wong,773 013 818,02805,Moore Via duct,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2048-id-dup-2,Veronica Wong,773 013 818,02805,Moore oViaduct,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2048-id-dup-3,Veronica Wong,773 013 818,02805,Moore Visaduct,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2048-id-dup-4,Veronica Wong,773 013 818,02805,,Carterstad,Prince Edward Island,95987,1972-08-17,598 567 2982
+rec-2049-id,Karen Peterson,854 061 561,5195,Lara Land,Port Ryanhaven,New Brunswick,75245,1976-04-26,866.499.5392
+rec-2049-id-dup-0,Karen Peterson,854 061 561,5195,Land Lara,Port Ryanhaven,New Brunswick,75245,1976-04-26,866.499.5392
+rec-2049-id-dup-1,Karen Peterson,854 061 561,5195,Lara Land,Port Ryanhaven,New Brunswick,75245,1976-04-26,866.499.5392
+rec-2049-id-dup-2,Karen Peterson,854 061 561,5195,Land Lara,Port Ryanhaven,New Brunswick,75245,1976-04-26,866.499.5392
+rec-2050-id,Jonathan Wright,301 351 441,1699,Joseph Valley,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2050-id-dup-0,Jonathan Wright,301 351 441,1699,Joseph V alley,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2050-id-dup-1,Jonathan Wright,301 351 441,1699,Valley Joseph,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2050-id-dup-2,Jonathan Wright,301 351 441,1699,,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2050-id-dup-3,Jonathan Wright,301 351 441,1699,Joseph V alley,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2050-id-dup-4,Jonathan Wright,301 351 441,1699,Joseph Valley,Nicoleport,Saskatchewan,27385,1997-05-31,955 957 6288
+rec-2051-id,Michael Gibson,877 216 036,538,Theresa Parkway,Rollinsmouth,Prince Edward Island,88189,2010-07-12,573 015 7662
+rec-2051-id-dup-0,Michael Gibson,877 216 036,538,,Rollinsmouth,Prince Edward Island,88189,2010-07-12,573 015 7662
+rec-2051-id-dup-1,Michael Gibson,877 216 036,538,Theresa Parkway,Rollinsmouth,Prince Edward Island,88189,2010-07-12,573 015 7662
+rec-2051-id-dup-2,Michael Gibson,877 216 036,538,Theresa Parkway,Rollinsmouth,Prince Edward Island,88189,2010-07-12,573 015 7662
+rec-2052-id,Jorge Peters,504 826 652,799,Washington Tunnel,Debrafurt,Quebec,36556,1975-04-04,(535) 979-0491
+rec-2052-id-dup-0,Jorge Peters,504 826 652,799,Washingtno Tunnel,Debrafurt,Quebec,36556,1975-04-04,(535) 979-0491
+rec-2052-id-dup-1,Jorge Petres,504 826 652,799,Washington Tunnel,Debrafurt,Quebec,36556,1975-04-04,(535) 979-0491
+rec-2052-id-dup-2,Peters Jorge,504 826 652,799,Washington Tunnel,Debrafurt,Quebec,36556,1975-04-04,(535) 979-0491
+rec-2052-id-dup-3,Jorge Peters,504 826 652,799,Washington Tunnel,Debrafurt,Quebec,36556,1975-04-04,(535) 979-0491
+rec-2053-id,Shannon Lam,334 477 106,013,Dean Isle,Castillotown,Manitoba,40067,1998-05-30,+1 (340) 771-9464
+rec-2053-id-dup-0,Shannon Lam,334 477 106,013,Dean sIle,Castillotown,Manitoba,40067,1998-05-30,+1 (340) 771-9464
+rec-2053-id-dup-1,Shannon Lam,334 477 106,013,Dean Isle,Castillotown,Manitoba,40067,1998-05-30,+1 (340) 771-9464
+rec-2054-id,Lisa Mercado,316 507 888,3355,Rebecca Springs,Hernandeztown,Quebec,98264,1999-02-09,913.895.1789
+rec-2054-id-dup-0,Lisa Mercado,316 507 888,3355,Rebecc a Springs,Hernandeztown,Quebec,98264,1999-02-09,913.895.1789
+rec-2054-id-dup-1,Lisa Mercado,316 507 888,3355,,Hernandeztown,Quebec,98264,1999-02-09,913.895.1789
+rec-2054-id-dup-2,Lisa Mercado,316 507 888,3355,Springs Rebecca,Hernandeztown,Quebec,98264,1999-02-09,913.895.1789
+rec-2054-id-dup-3,Lisa Mercado,316 507 888,3355,Rebecca S prings,Hernandeztown,Quebec,98264,1999-02-09,913.895.1789
+rec-2055-id,Kevin Chandler,472 833 854,572,Robert Shore,Jasonfurt,Alberta,04250,1984-06-16,785-095-3349
+rec-2055-id-dup-0,Kevin Chandler,472 833 854,572,Fox Port,Jasonfurt,Alberta,04250,1984-06-16,785-095-3349
+rec-2056-id,Jeffery Fernandez,872 338 025,30678,Joy Path,North Robertbury,Quebec,20476,1977-10-23,(502) 222-8878 x361
+rec-2056-id-dup-0,Jeffery Fernandez,872 338 025,30678,,North Robertbury,Quebec,20476,1977-10-23,(502) 222-8878 x361
+rec-2056-id-dup-1,Jeffery Fernandez,872 338 025,30678,Path Joy,North Robertbury,Quebec,20476,1977-10-23,(502) 222-8878 x361
+rec-2056-id-dup-2,Jeffery Fernandez,872 338 025,30678,Joy Path,North Robertbury,Quebec,20476,1977-10-23,(502) 222-8878 x361
+rec-2056-id-dup-3,Jeffery Fernandez,872 338 025,30678,Gonzalez Junction,North Robertbury,Quebec,20476,1977-10-23,(502) 222-8878 x361
+rec-2057-id,Albert Jarvis,328 011 689,586,Cole Route,New Natasha,British Columbia,28867,2003-08-23,(715) 011-6751
+rec-2057-id-dup-0,Albert Jarvis,328 011 689,586,,New Natasha,British Columbia,28867,2003-08-23,(715) 011-6751
+rec-2057-id-dup-1,Albert Jarvis,328 011 689,586,Cole R oute,New Natasha,British Columbia,28867,2003-08-23,(715) 011-6751
+rec-2057-id-dup-2,Albert Jarvis,328 011 689,586,Austin Mews,New Natasha,British Columbia,28867,2003-08-23,(715) 011-6751
+rec-2058-id,Alex Campbell,034 881 565,1638,Jennifer Mountain,Vegamouth,New Brunswick,35102,2012-06-10,(656) 324-9645 x274
+rec-2058-id-dup-0,Alex Campbell,034 881 565,1638,,Vegamouth,New Brunswick,35102,2012-06-10,(656) 324-9645 x274
+rec-2058-id-dup-1,Alex Campbell,034 881 565,1638,Jennifer Mountain,Vegamouth,New Brunswick,35102,2012-06-10,(656) 324-9645 x274
+rec-2058-id-dup-2,Alex Campbell,034 881 565,1638,Mountain Jennifer,Vegamouth,New Brunswick,35102,2012-06-10,(656) 324-9645 x274
+rec-2058-id-dup-3,Alex Campbell,034 881 565,1638,Jennifer M ountain,Vegamouth,New Brunswick,35102,2012-06-10,(656) 324-9645 x274
+rec-2059-id,Stephanie Lambert,027 386 275,26195,Moore Ways,Lake Danielle,Saskatchewan,89790,1995-11-04,(808) 752-8152 x041
+rec-2059-id-dup-0,Stephanie Lambert,027 386 275,26195,Moore Wa ys,Lake Danielle,Saskatchewan,89790,1995-11-04,(808) 752-8152 x041
+rec-2059-id-dup-1,Stephanie Lambert,027 386 275,26195,Moore Ways,Lake Danielle,Saskatchewan,89790,1995-11-04,(808) 752-8152 x041
+rec-2060-id,John Hughes,311 748 800,77241,Martinez Gateway,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2060-id-dup-0,John Hughes,311 748 800,77241,Martinez Gateway,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2060-id-dup-1,John Hughes,311 748 800,77241,,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2060-id-dup-2,John Hughes,311 748 800,77241,Martinez Gateway,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2060-id-dup-3,John Hughes,311 748 800,77241,Martinez Gateway,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2060-id-dup-4,John Hughes,311 748 800,77241,Martinez Gateway,Josephville,Saskatchewan,99504,1998-01-04,921 155 7624
+rec-2061-id,Amanda Moore,026 817 866,144,Marcus Junctions,Port Debra,Northwest Territories,23604,1998-10-20,+1 (398) 061-7133
+rec-2061-id-dup-0,Amanda Moore,026 817 866,144,Marcus Ju nctions,Port Debra,Northwest Territories,23604,1998-10-20,+1 (398) 061-7133
+rec-2061-id-dup-1,Amanda Moore,026 817 866,144,Marcus Junctions,Port Debra,Northwest Territories,23604,1998-10-20,+1 (398) 061-7133
+rec-2061-id-dup-2,Amanda Moore,026 817 866,144,Finley Oval,Port Debra,Northwest Territories,23604,1998-10-20,+1 (398) 061-7133
+rec-2061-id-dup-3,Amanda Moore,026 817 866,144,,Port Debra,Northwest Territories,23604,1998-10-20,+1 (398) 061-7133
+rec-2062-id,Keith Walter,408 135 770,6618,Wood Mission,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2062-id-dup-0,Keith Walter,408 135 770,6618,Erica Alley,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2062-id-dup-1,Keith Walter,408 135 770,6618,Mission Wood,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2062-id-dup-2,Keith Walter,408 135 770,6618,Williams Curve,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2062-id-dup-3,Keith Walter,408 135 770,6618,Mission Wood,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2062-id-dup-4,William Guerrero,408 135 770,6618,Wood Mission,East Christopherberg,Northwest Territories,16243,2001-11-16,1-221-407-0828
+rec-2063-id,Robert Davidson,267 210 532,507,Thomas Crescent,Annshire,Yukon Territory,03877,1989-11-17,+1 (162) 242-0770
+rec-2063-id-dup-0,Robert Davidson,267 210 532,507,Crescent Thomas,Annshire,Yukon Territory,03877,1989-11-17,+1 (162) 242-0770
+rec-2063-id-dup-1,Robert Davidson,267 210 532,507,,Annshire,Yukon Territory,03877,1989-11-17,+1 (162) 242-0770
+rec-2063-id-dup-2,Robert Davidson,267 210 532,507,Thomas Cr escent,Annshire,Yukon Territory,03877,1989-11-17,+1 (162) 242-0770
+rec-2064-id,Deborah Miller,258 607 480,448,Jay Lakes,Brentmouth,Northwest Territories,97300,1970-10-21,459-668-1822 x828
+rec-2064-id-dup-0,Deborah Miller,258 607 480,448,Duran Fords,Brentmouth,Northwest Territories,97300,1970-10-21,459-668-1822 x828
+rec-2064-id-dup-1,Deborah Miller,258 607 480,448,Jay La kes,Brentmouth,Northwest Territories,97300,1970-10-21,459-668-1822 x828
+rec-2064-id-dup-2,Deborah Miller,258 607 480,448,Lakes Jay,Brentmouth,Northwest Territories,97300,1970-10-21,459-668-1822 x828
+rec-2064-id-dup-3,Deborah Miller,258 607 480,448,Jay Lakes,Brentmouth,Northwest Territories,97300,1970-10-21,459-668-1822 x828
+rec-2065-id,Nathan Gonzalez,264 568 544,560,Underwood Mill,East Harold,Alberta,18053,1974-04-30,359 423 9420
+rec-2065-id-dup-0,Nathan Gonzalez,264 568 544,560,Underwood Mill,East Harold,Alberta,18053,1974-04-30,359 423 9420
+rec-2065-id-dup-1,Nathan Gonzalez,264 568 544,560,Underwoo d Mill,East Harold,Alberta,18053,1974-04-30,359 423 9420
+rec-2065-id-dup-2,Nathan Gonzalez,264 568 544,560,,East Harold,Alberta,18053,1974-04-30,359 423 9420
+rec-2065-id-dup-3,Nathan Gonzalez,264 568 544,560,Underwo od Mill,East Harold,Alberta,18053,1974-04-30,359 423 9420
+rec-2066-id,Jacob James,286 705 462,209,Eric Stravenue,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2066-id-dup-0,Jacob James,286 705 462,209,Eric Stravenue,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2066-id-dup-1,Jacob James,286 705 462,209,Stravenue Eric,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2066-id-dup-2,Jacob James,286 705 462,209,Martin Vista,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2066-id-dup-3,Jacob James,286 705 462,209,Eric Stra venue,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2066-id-dup-4,Jacob James,286 705 462,209,Eric Stravenue,Lake Dennisfort,British Columbia,35747,1979-03-06,1-152-796-9346
+rec-2067-id,Meghan Garza,305 223 141,563,Kristina Cove,South Angel,Manitoba,37306,1997-09-14,(830) 767-2032 x928
+rec-2067-id-dup-0,Meghan Garza,305 223 141,563,Kimberly Fort,South Angel,Manitoba,37306,1997-09-14,(830) 767-2032 x928
+rec-2067-id-dup-1,Meghan Garza,305 223 141,563,Kristina Cove,South Angel,Manitoba,37306,1997-09-14,(830) 767-2032 x928
+rec-2068-id,Timothy Mitchell,530 528 322,06255,Patrick River,Brownbury,Quebec,52921,2009-01-27,+1 (141) 408-4511
+rec-2068-id-dup-0,Timothy Mitchell,530 528 322,06255,Patrick River,Brownbury,Quebec,52921,2009-01-27,+1 (141) 408-4511
+rec-2068-id-dup-1,Timothy Mitchell,530 528 322,06255,Patrick River,Brownbury,Quebec,52921,2009-01-27,+1 (141) 408-4511
+rec-2068-id-dup-2,Timothy Mitchell,530 528 322,06255,River Patrick,Brownbury,Quebec,52921,2009-01-27,+1 (141) 408-4511
+rec-2068-id-dup-3,Timothy Mitchell,530 528 322,06255,Brenda Islands,Brownbury,Quebec,52921,2009-01-27,+1 (141) 408-4511
+rec-2069-id,Steve Parker,685 614 018,2551,Timothy Wall,New William,Manitoba,77546,1971-11-25,(826) 156-8144 x444
+rec-2069-id-dup-0,Steve Parker,685 614 018,2551,,New William,Manitoba,77546,1971-11-25,(826) 156-8144 x444
+rec-2069-id-dup-1,Steve Parker,685 614 018,2551,Timothy Wall,New William,Manitoba,77546,1971-11-25,(826) 156-8144 x444
+rec-2069-id-dup-2,Steve Parker,685 614 018,2551,,New William,Manitoba,77546,1971-11-25,(826) 156-8144 x444
+rec-2070-id,Charles Jackson,072 283 765,10015,Patrick Ways,Martinborough,Nunavut,97944,1975-11-10,963.546.3498
+rec-2070-id-dup-0,Charles Jackson,072 283 765,10015,Kathleen Rest,Martinborough,Nunavut,97944,1975-11-10,963.546.3498
+rec-2070-id-dup-1,,072 283 765,10015,Patrick Ways,Martinborough,Nunavut,97944,1975-11-10,963.546.3498
+rec-2070-id-dup-2,Charles Jackson,072 283 765,10015,Patri ck Ways,Martinborough,Nunavut,97944,1975-11-10,963.546.3498
+rec-2071-id,Jeremy Taylor,617 235 809,926,Young Prairie,Munozland,Yukon Territory,75996,1997-07-02,1-838-782-9977
+rec-2071-id-dup-0,Jeremy Taylor,617 235 809,926,Young P rairie,Munozland,Yukon Territory,75996,1997-07-02,1-838-782-9977
+rec-2071-id-dup-1,Jeremy Taylor,617 235 809,926,,Munozland,Yukon Territory,75996,1997-07-02,1-838-782-9977
+rec-2071-id-dup-2,Jeremy Taylor,617 235 809,926,Young Prairie,Munozland,Yukon Territory,75996,1997-07-02,1-838-782-9977
+rec-2071-id-dup-3,Jeremy Taylor,617 235 809,926,,Munozland,Yukon Territory,75996,1997-07-02,1-838-782-9977
+rec-2072-id,Craig Knox,023 551 641,45723,Houston Crossroad,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2072-id-dup-0,Craig Knox,023 551 641,45723,Houston Crokssroad,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2072-id-dup-1,Craig Knox,023 551 641,45723,Houston Crossroad,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2072-id-dup-2,Mark Harris,023 551 641,45723,Houston Crossroad,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2072-id-dup-3,Craig Knox,023 551 641,45723,Ford Cove,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2072-id-dup-4,Craig Knox,023 551 641,45723,Garcia Shoals,Laurieberg,Nova Scotia,89137,1996-07-26,1 (319) 683-7976
+rec-2073-id,Brenda Wright,738 645 209,7824,Mclaughlin Ranch,Port Glendamouth,Manitoba,04190,2012-12-11,265-670-9727 x460
+rec-2073-id-dup-0,Brenda Wright,738 645 209,7824,Mclaughli nRanch,Port Glendamouth,Manitoba,04190,2012-12-11,265-670-9727 x460
+rec-2073-id-dup-1,Wright Brenda,738 645 209,7824,Mclaughlin Ranch,Port Glendamouth,Manitoba,04190,2012-12-11,265-670-9727 x460
+rec-2073-id-dup-2,Brenda Wright,738 645 209,7824,Mclaughli n Ranch,Port Glendamouth,Manitoba,04190,2012-12-11,265-670-9727 x460
+rec-2073-id-dup-3,Brenda Wright,738 645 209,7824,Mclaughlin Ranch,Port Glendamouth,Manitoba,04190,2012-12-11,265-670-9727 x460
+rec-2074-id,Scott Navarro,467 417 200,9280,Roberts Oval,Janiceview,Quebec,26013,1982-02-27,(839) 491-7812
+rec-2074-id-dup-0,Scott Navarro,467 417 200,9280,Roberts Oval,Janiceview,Quebec,26013,1982-02-27,(839) 491-7812
+rec-2074-id-dup-1,Scott Navarro,467 417 200,9280,Roberts Oval,Janiceview,Quebec,26013,1982-02-27,(839) 491-7812
+rec-2074-id-dup-2,Scott Navarro,467 417 200,9280,Carter Estate,Janiceview,Quebec,26013,1982-02-27,(839) 491-7812
+rec-2075-id,Rebecca James,166 144 774,8792,Williams Ford,East Brittany,Quebec,32090,1973-09-23,+1 (458) 906-6877
+rec-2075-id-dup-0,Rebecca James,166 144 774,8792,William s Ford,East Brittany,Quebec,32090,1973-09-23,+1 (458) 906-6877
+rec-2075-id-dup-1,Rebecca James,166 144 774,8792,William s Ford,East Brittany,Quebec,32090,1973-09-23,+1 (458) 906-6877
+rec-2075-id-dup-2,Rebecca James,166 144 774,8792,Ford Williams,East Brittany,Quebec,32090,1973-09-23,+1 (458) 906-6877
+rec-2075-id-dup-3,Rebecca James,166 144 774,8792,,East Brittany,Quebec,32090,1973-09-23,+1 (458) 906-6877
+rec-2076-id,Carrie Reynolds,166 782 086,98329,Matthew View,West Peter,Nunavut,53738,1970-04-02,885.131.9459
+rec-2076-id-dup-0,Carrie Reynolds,166 782 086,98329,Matthew V iew,West Peter,Nunavut,53738,1970-04-02,885.131.9459
+rec-2076-id-dup-1,Carrie Reynolds,166 782 086,98329,Matthew V iew,West Peter,Nunavut,53738,1970-04-02,885.131.9459
+rec-2076-id-dup-2,Carrie Reynolds,166 782 086,98329,Matthew View,West Peter,Nunavut,53738,1970-04-02,885.131.9459
+rec-2077-id,Kimberly Mcdonald,302 883 129,9891,Dennis Causeway,North Theresaside,Newfoundland and Labrador,48543,2015-02-06,+1 (319) 291-5100
+rec-2077-id-dup-0,Kimberly Mcdonald,302 883 129,9891,Chad Courts,North Theresaside,Newfoundland and Labrador,48543,2015-02-06,+1 (319) 291-5100
+rec-2077-id-dup-1,Kimberly Mcdonald,302 883 129,9891,,North Theresaside,Newfoundland and Labrador,48543,2015-02-06,+1 (319) 291-5100
+rec-2077-id-dup-2,Kimberly Mcdonald,302 883 129,9891,,North Theresaside,Newfoundland and Labrador,48543,2015-02-06,+1 (319) 291-5100
+rec-2078-id,Kevin Owens,544 530 611,70638,Martin Plains,New Raymond,New Brunswick,60901,1993-06-01,(461) 346-9266 x267
+rec-2078-id-dup-0,Kevin Owens,544 530 611,70638,Tanner Circles,New Raymond,New Brunswick,60901,1993-06-01,(461) 346-9266 x267
+rec-2078-id-dup-1,Kevin Owens,544 530 611,70638,Martin Pl ains,New Raymond,New Brunswick,60901,1993-06-01,(461) 346-9266 x267
+rec-2078-id-dup-2,Kevin Owens,544 530 611,70638,Hart Views,New Raymond,New Brunswick,60901,1993-06-01,(461) 346-9266 x267
+rec-2079-id,John Brooks,302 354 121,6474,Norton Court,Stokesfurt,New Brunswick,10182,1978-10-09,(146) 641-4570
+rec-2079-id-dup-0,Sharon Bell,302 354 121,6474,Norton Court,Stokesfurt,New Brunswick,10182,1978-10-09,(146) 641-4570
+rec-2079-id-dup-1,John Brooks,302 354 121,6474,Norto n Court,Stokesfurt,New Brunswick,10182,1978-10-09,(146) 641-4570
+rec-2079-id-dup-2,John Brooks,302 354 121,6474,Court Norton,Stokesfurt,New Brunswick,10182,1978-10-09,(146) 641-4570
+rec-2080-id,Brandon Chang,665 205 746,586,Bryan Mountain,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2080-id-dup-0,Brandon Chang,665 205 746,586,Bryan Mountain,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2080-id-dup-1,Brandon Chang,665 205 746,586,Bryan Mountain,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2080-id-dup-2,Brandon Chang,665 205 746,586,Mountain Bryan,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2080-id-dup-3,Brandon Chang,665 205 746,586,Bryan Mo untain,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2080-id-dup-4,Brandon Chang,665 205 746,586,Mountain Bryan,Ginafurt,Nunavut,79265,1971-08-03,983-848-1668 x694
+rec-2081-id,Tonya Rodriguez,802 316 471,27279,Lawrence Terrace,Wallaceshire,Yukon Territory,95163,1985-04-01,195-766-9732
+rec-2081-id-dup-0,Tonya Rodriguez,802 316 471,27279,Terrace Lawrence,Wallaceshire,Yukon Territory,95163,1985-04-01,195-766-9732
+rec-2081-id-dup-1,Tonya Rodriguez,802 316 471,27279,Lawrence Terrace,Wallaceshire,Yukon Territory,95163,1985-04-01,195-766-9732
+rec-2081-id-dup-2,Tonya Rodriguez,802 316 471,27279,,Wallaceshire,Yukon Territory,95163,1985-04-01,195-766-9732
+rec-2082-id,Stephanie Johnson,276 214 384,05616,Juan Cliff,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2082-id-dup-0,Stephanie Johnson,276 214 384,05616,Nolan Falls,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2082-id-dup-1,Stephanie Johnson,276 214 384,05616,Juan Cliff,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2082-id-dup-2,Stephanie Johnson,276 214 384,05616,Buck Viaduct,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2082-id-dup-3,Stephanie Johnson,276 214 384,05616,Juan Cl iff,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2082-id-dup-4,Stephanie Johnson,276 214 384,05616,Juan Cliff,Gutierrezhaven,Alberta,92531,1997-02-01,1-996-794-2781
+rec-2083-id,Joshua Simmons,058 851 437,17764,Jessica Union,Lake Ashley,Manitoba,89785,2008-10-06,(859) 764-0861 x937
+rec-2083-id-dup-0,Joshua Simmons,058 851 437,17764,Jessica U nion,Lake Ashley,Manitoba,89785,2008-10-06,(859) 764-0861 x937
+rec-2083-id-dup-1,Joshua Simmons,058 851 437,17764,Jessica Union,Lake Ashley,Manitoba,89785,2008-10-06,(859) 764-0861 x937
+rec-2083-id-dup-2,Joshua Simmons,058 851 437,17764,Union Jessica,Lake Ashley,Manitoba,89785,2008-10-06,(859) 764-0861 x937
+rec-2083-id-dup-3,Joshua Simmons,058 851 437,17764,Union Jessica,Lake Ashley,Manitoba,89785,2008-10-06,(859) 764-0861 x937
+rec-2084-id,Connor Richard,735 140 865,60474,Justin Common,New Marthamouth,New Brunswick,04746,1973-08-03,296.409.9783
+rec-2084-id-dup-0,Connor Richard,735 140 865,60474,Justin oCmmon,New Marthamouth,New Brunswick,04746,1973-08-03,296.409.9783
+rec-2084-id-dup-1,Connor Richard,735 140 865,60474,Common Justin,New Marthamouth,New Brunswick,04746,1973-08-03,296.409.9783
+rec-2084-id-dup-2,Connor Richard,735 140 865,60474,Just in Common,New Marthamouth,New Brunswick,04746,1973-08-03,296.409.9783
+rec-2084-id-dup-3,Connor Richard,735 140 865,60474,Justin Co mmon,New Marthamouth,New Brunswick,04746,1973-08-03,296.409.9783
+rec-2085-id,Elijah Patel,221 608 839,173,Steven Gateway,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2085-id-dup-0,Elijah Patel,221 608 839,173,,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2085-id-dup-1,Elijah Patel,221 608 839,173,Steven G ateway,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2085-id-dup-2,Elijah Patel,221 608 839,173,Steven G ateway,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2085-id-dup-3,Elijah Patel,221 608 839,173,,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2085-id-dup-4,Elijah Patel,221 608 839,173,Steven G ateway,Barbarafurt,Ontario,17102,2007-10-10,914-667-1887 x228
+rec-2086-id,Travis Santos,344 728 134,71019,Carroll Inlet,Port Andrew,Manitoba,12093,1988-11-15,+1 (207) 191-8735
+rec-2086-id-dup-0,Travis Santos,344 728 134,71019,,Port Andrew,Manitoba,12093,1988-11-15,+1 (207) 191-8735
+rec-2086-id-dup-1,Travis Santos,344 728 134,71019,Jeffery Mall,Port Andrew,Manitoba,12093,1988-11-15,+1 (207) 191-8735
+rec-2087-id,Michael Robertson,621 438 209,3276,Molly Park,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2087-id-dup-0,Michael Robertson,621 438 209,3276,Molly Park,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2087-id-dup-1,Michael Robertson,621 438 209,3276,Davis Springs,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2087-id-dup-2,Christina Moss,621 438 209,3276,Molly Park,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2087-id-dup-3,Michael Robertson,621 438 209,3276,,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2087-id-dup-4,Michael Robertson,621 438 209,3276,,Lanemouth,Alberta,28467,1998-06-28,(772) 167-6054 x748
+rec-2088-id,Jeffrey Harper,208 558 668,4153,Thomas Isle,North Maxmouth,British Columbia,49122,2006-08-07,1-928-735-7385
+rec-2088-id-dup-0,Jeffrey Harper,208 558 668,4153,William Manor,North Maxmouth,British Columbia,49122,2006-08-07,1-928-735-7385
+rec-2088-id-dup-1,Jeffrey Harper,208 558 668,4153,Thomas Isle,North Maxmouth,British Columbia,49122,2006-08-07,1-928-735-7385
+rec-2089-id,Diane Howard,667 702 146,628,Johnson Court,West Yvonneborough,New Brunswick,40157,2004-03-25,+1 (675) 308-4964
+rec-2089-id-dup-0,Diane Howard,667 702 146,628,Jeffrey Green,West Yvonneborough,New Brunswick,40157,2004-03-25,+1 (675) 308-4964
+rec-2089-id-dup-1,Diane Howard,667 702 146,628,Melinda Brooks,West Yvonneborough,New Brunswick,40157,2004-03-25,+1 (675) 308-4964
+rec-2089-id-dup-2,Diane Howard,667 702 146,628,Johnson Court,West Yvonneborough,New Brunswick,40157,2004-03-25,+1 (675) 308-4964
+rec-2089-id-dup-3,Diane Howard,667 702 146,628,Johnson Court,West Yvonneborough,New Brunswick,40157,2004-03-25,+1 (675) 308-4964
+rec-2090-id,Shelby Escobar,052 456 431,46120,Johnson Ways,Olsonbury,Alberta,03028,1997-06-12,155.070.5056
+rec-2090-id-dup-0,Shelby Escobar,052 456 431,46120,Ways Johnson,Olsonbury,Alberta,03028,1997-06-12,155.070.5056
+rec-2090-id-dup-1,Shelby Escobar,052 456 431,46120,Taylor Ports,Olsonbury,Alberta,03028,1997-06-12,155.070.5056
+rec-2090-id-dup-2,Shelby Escobar,052 456 431,46120,Johnson Ways,Olsonbury,Alberta,03028,1997-06-12,155.070.5056
+rec-2091-id,Mark Bailey,278 543 707,6795,Jordan Shores,East Kevin,Prince Edward Island,33420,1978-02-12,154 897 7982
+rec-2091-id-dup-0,,278 543 707,6795,Jordan Shores,East Kevin,Prince Edward Island,33420,1978-02-12,154 897 7982
+rec-2091-id-dup-1,Mark Bailey,278 543 707,6795,Scott Summit,East Kevin,Prince Edward Island,33420,1978-02-12,154 897 7982
+rec-2091-id-dup-2,,278 543 707,6795,Jordan Shores,East Kevin,Prince Edward Island,33420,1978-02-12,154 897 7982
+rec-2091-id-dup-3,Mark Bailey,278 543 707,6795,Jordan Shores,East Kevin,Prince Edward Island,33420,1978-02-12,154 897 7982
+rec-2092-id,Thomas Klein,862 013 729,01233,Peter Lake,Myersmouth,Nunavut,66577,1970-09-03,(407) 152-5656
+rec-2092-id-dup-0,Thomas Klein,862 013 729,01233,Peter Lake,Myersmouth,Nunavut,66577,1970-09-03,(407) 152-5656
+rec-2092-id-dup-1,Thomas Klein,862 013 729,01233,PeterL ake,Myersmouth,Nunavut,66577,1970-09-03,(407) 152-5656
+rec-2092-id-dup-2,Thomas Klein,862 013 729,01233,Peter L ake,Myersmouth,Nunavut,66577,1970-09-03,(407) 152-5656
+rec-2092-id-dup-3,Thomas Klein,862 013 729,01233,Peter Lake,Myersmouth,Nunavut,66577,1970-09-03,(407) 152-5656
+rec-2093-id,Dawn Marshall,220 718 662,226,Tracy Locks,Port Keithhaven,Saskatchewan,97609,1975-11-23,1-592-250-3376
+rec-2093-id-dup-0,Dawn Marshall,220 718 662,226,Tracyy Locks,Port Keithhaven,Saskatchewan,97609,1975-11-23,1-592-250-3376
+rec-2093-id-dup-1,Dawn Marshall,220 718 662,226,Lewis Plain,Port Keithhaven,Saskatchewan,97609,1975-11-23,1-592-250-3376
+rec-2094-id,Jerry Phelps,864 805 239,4924,Willis Route,East Taylor,Quebec,34546,1991-07-19,(831) 115-6633 x267
+rec-2094-id-dup-0,Jerry Phelps,864 805 239,4924,Willi s Route,East Taylor,Quebec,34546,1991-07-19,(831) 115-6633 x267
+rec-2094-id-dup-1,Jerry Phelps,864 805 239,4924,,East Taylor,Quebec,34546,1991-07-19,(831) 115-6633 x267
+rec-2094-id-dup-2,Jerry Phelps,864 805 239,4924,Willis R oute,East Taylor,Quebec,34546,1991-07-19,(831) 115-6633 x267
+rec-2094-id-dup-3,Jerry Phelps,864 805 239,4924,Willis Route,East Taylor,Quebec,34546,1991-07-19,(831) 115-6633 x267
+rec-2095-id,Stephanie Morrison,356 772 012,94868,Francis Mountain,East Michaelshire,Saskatchewan,67984,2002-02-11,1 (453) 132-0893
+rec-2095-id-dup-0,Stephanie Morrison,356 772 012,94868,Francis Monutain,East Michaelshire,Saskatchewan,67984,2002-02-11,1 (453) 132-0893
+rec-2095-id-dup-1,Stephanie Morrison,356 772 012,94868,,East Michaelshire,Saskatchewan,67984,2002-02-11,1 (453) 132-0893
+rec-2095-id-dup-2,Stephanie Morrison,356 772 012,94868,Francis Mountain,East Michaelshire,Saskatchewan,67984,2002-02-11,1 (453) 132-0893
+rec-2095-id-dup-3,Stephanie Morrison,356 772 012,94868,Francis Mountain,East Michaelshire,Saskatchewan,67984,2002-02-11,1 (453) 132-0893
+rec-2096-id,Sarah Reilly,817 043 169,743,Kristine Valley,Kellyland,New Brunswick,02306,1997-09-09,+1 (353) 340-7988
+rec-2096-id-dup-0,Sarah Reilly,817 043 169,743,Kristin e Valley,Kellyland,New Brunswick,02306,1997-09-09,+1 (353) 340-7988
+rec-2096-id-dup-1,Sarah Reilly,817 043 169,743,Kristine Valley,Kellyland,New Brunswick,02306,1997-09-09,+1 (353) 340-7988
+rec-2096-id-dup-2,Sarah Reilly,817 043 169,743,Cynthia Greens,Kellyland,New Brunswick,02306,1997-09-09,+1 (353) 340-7988
+rec-2097-id,Joseph Greene,170 271 340,12897,Smith Roads,South Michael,New Brunswick,39494,1987-06-21,+1 (562) 720-8520
+rec-2097-id-dup-0,Joseph Greene,170 271 340,12897,Smith Roads,South Michael,New Brunswick,39494,1987-06-21,+1 (562) 720-8520
+rec-2097-id-dup-1,Joseph Greene,170 271 340,12897,Smith R oads,South Michael,New Brunswick,39494,1987-06-21,+1 (562) 720-8520
+rec-2098-id,Daniel Morris,457 156 032,6503,Danielle Stravenue,Markmouth,Manitoba,62279,1986-03-11,+1 (809) 629-0733
+rec-2098-id-dup-0,Daniel Morris,457 156 032,6503,Stravenue Danielle,Markmouth,Manitoba,62279,1986-03-11,+1 (809) 629-0733
+rec-2098-id-dup-1,Daniel Morris,457 156 032,6503,Danielle Str avenue,Markmouth,Manitoba,62279,1986-03-11,+1 (809) 629-0733
+rec-2098-id-dup-2,Daniel Morris,457 156 032,6503,Stravenue Danielle,Markmouth,Manitoba,62279,1986-03-11,+1 (809) 629-0733
+rec-2098-id-dup-3,Daniel Morris,457 156 032,6503,Stravenue Danielle,Markmouth,Manitoba,62279,1986-03-11,+1 (809) 629-0733
+rec-2099-id,Joel Bentley,264 370 552,03090,Laura Greens,Natalieland,Quebec,77695,1993-12-15,+1 (125) 261-4948
+rec-2099-id-dup-0,Joel Bentley,264 370 552,03090,Laura Gr eens,Natalieland,Quebec,77695,1993-12-15,+1 (125) 261-4948
+rec-2099-id-dup-1,Joel Bentley,264 370 552,03090,Greens Laura,Natalieland,Quebec,77695,1993-12-15,+1 (125) 261-4948
+rec-2099-id-dup-2,Joel Bentley,264 370 552,03090,Ronald Port,Natalieland,Quebec,77695,1993-12-15,+1 (125) 261-4948
+rec-2099-id-dup-3,Brian Petersen,264 370 552,03090,Laura Greens,Natalieland,Quebec,77695,1993-12-15,+1 (125) 261-4948
+rec-2100-id,Bridget Walker,250 466 521,434,Arias Cape,Jacquelineside,Nunavut,98373,2010-07-17,1-503-754-2619
+rec-2100-id-dup-0,Bridget Walker,250 466 521,434,Arias Cape,Jacquelineside,Nunavut,98373,2010-07-17,1-503-754-2619
+rec-2100-id-dup-1,Bridget Walker,250 466 521,434,Cape Arias,Jacquelineside,Nunavut,98373,2010-07-17,1-503-754-2619
+rec-2100-id-dup-2,Bridget Walker,250 466 521,434,Kelly Trafficway,Jacquelineside,Nunavut,98373,2010-07-17,1-503-754-2619
+rec-2100-id-dup-3,Bridget Walker,250 466 521,434,Arias aCpe,Jacquelineside,Nunavut,98373,2010-07-17,1-503-754-2619
+rec-2101-id,Gabriel Blair,056 734 718,9111,Evan Walks,Johnsonport,Saskatchewan,88439,2014-10-06,1-295-819-6701
+rec-2101-id-dup-0,Gabriel Blair,056 734 718,9111,Evan Walks,Johnsonport,Saskatchewan,88439,2014-10-06,1-295-819-6701
+rec-2101-id-dup-1,Gabriel Blair,056 734 718,9111,Evan Walks,Johnsonport,Saskatchewan,88439,2014-10-06,1-295-819-6701
+rec-2101-id-dup-2,Gabriel Blair,056 734 718,9111,Evan Walks,Johnsonport,Saskatchewan,88439,2014-10-06,1-295-819-6701
+rec-2102-id,Robin Torres,453 354 714,2821,Christina Crossing,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2102-id-dup-0,Robin Torres,453 354 714,2821,Christina Crossing,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2102-id-dup-1,Robin Torres,453 354 714,2821,Christina Crossing,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2102-id-dup-2,Robin Torres,453 354 714,2821,Christina Crossing,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2102-id-dup-3,Robin Torres,453 354 714,2821,Gordon Parkways,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2102-id-dup-4,Robin Torres,453 354 714,2821,Christina Crossing,Lopezmouth,Ontario,93137,2001-09-20,970-527-1442 x484
+rec-2103-id,Joshua Smith,501 438 238,510,Garcia Square,Crawfordburgh,British Columbia,79409,1985-01-20,1 (258) 386-5971
+rec-2103-id-dup-0,Joshua Smith,501 438 238,510,Square Garcia,Crawfordburgh,British Columbia,79409,1985-01-20,1 (258) 386-5971
+rec-2103-id-dup-1,Joshua Smith,501 438 238,510,Jones Harbors,Crawfordburgh,British Columbia,79409,1985-01-20,1 (258) 386-5971
+rec-2103-id-dup-2,Joshua Smith,501 438 238,510,Barker Heights,Crawfordburgh,British Columbia,79409,1985-01-20,1 (258) 386-5971
+rec-2104-id,Megan Maynard,718 347 057,077,Joshua Shoals,Port Maryview,New Brunswick,54036,2017-09-11,(922) 496-7278 x858
+rec-2104-id-dup-0,Megan Maynard,718 347 057,077,Stephanie Rapids,Port Maryview,New Brunswick,54036,2017-09-11,(922) 496-7278 x858
+rec-2105-id,Jose Wilson,355 883 018,739,Morrison Pine,New Micheleport,Alberta,86024,2014-07-05,+1 (226) 106-0640
+rec-2105-id-dup-0,Jose Wilson,355 883 018,739,Pine Morrison,New Micheleport,Alberta,86024,2014-07-05,+1 (226) 106-0640
+rec-2106-id,Rebecca Parker,665 581 401,1302,Leonard Freeway,Rickyton,New Brunswick,54155,2006-12-30,1-290-185-0872
+rec-2106-id-dup-0,Rebecca Parker,665 581 401,1302,,Rickyton,New Brunswick,54155,2006-12-30,1-290-185-0872
+rec-2106-id-dup-1,Rebecca Parker,665 581 401,1302,,Rickyton,New Brunswick,54155,2006-12-30,1-290-185-0872
+rec-2106-id-dup-2,Rebecca Parker,665 581 401,1302,,Rickyton,New Brunswick,54155,2006-12-30,1-290-185-0872
+rec-2107-id,Gregory Hodge,608 531 489,11785,Michael Gateway,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2107-id-dup-0,Gregory Hodge,608 531 489,11785,Michael G ateway,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2107-id-dup-1,Gregory Hodge,608 531 489,11785,Michael G ateway,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2107-id-dup-2,Gregory Hodge,608 531 489,11785,Gateway Michael,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2107-id-dup-3,Gregory Hodge,608 531 489,11785,Michael Gateway,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2107-id-dup-4,Gregory Hodge,608 531 489,11785,Pacheco Tunnel,Youngmouth,Yukon Territory,43842,2012-09-21,1 (257) 580-6568
+rec-2108-id,Cameron Long,128 768 066,40849,Bruce Locks,Port Danielberg,New Brunswick,67756,2013-01-18,+1 (910) 313-9177
+rec-2108-id-dup-0,Cameron Long,128 768 066,40849,,Port Danielberg,New Brunswick,67756,2013-01-18,+1 (910) 313-9177
+rec-2108-id-dup-1,Cameron Long,128 768 066,40849,Bruce L ocks,Port Danielberg,New Brunswick,67756,2013-01-18,+1 (910) 313-9177
+rec-2108-id-dup-2,Cameron Long,128 768 066,40849,Alvarado Rapids,Port Danielberg,New Brunswick,67756,2013-01-18,+1 (910) 313-9177
+rec-2109-id,Sarah Flynn,622 054 765,8773,Frank Crescent,Matthewview,Alberta,36883,1987-03-18,(507) 599-2343
+rec-2109-id-dup-0,Sarah Flynn,622 054 765,8773,,Matthewview,Alberta,36883,1987-03-18,(507) 599-2343
+rec-2109-id-dup-1,Sarah Flynn,622 054 765,8773,Crescent Frank,Matthewview,Alberta,36883,1987-03-18,(507) 599-2343
+rec-2109-id-dup-2,Sarah Flynn,622 054 765,8773,Crescent Frank,Matthewview,Alberta,36883,1987-03-18,(507) 599-2343
+rec-2110-id,Angela Allen,221 760 747,779,Butler Track,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2110-id-dup-0,Angela Allen,221 760 747,779,,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2110-id-dup-1,Angela Allen,221 760 747,779,Track Butler,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2110-id-dup-2,Amber Tran,221 760 747,779,Butler Track,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2110-id-dup-3,Angela Allen,221 760 747,779,Butler Track,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2110-id-dup-4,Angela Al len,221 760 747,779,Butler Track,Port Tonyamouth,New Brunswick,66888,2017-01-09,1-317-009-4876
+rec-2111-id,Manuel Smith,405 316 241,504,Brenda Harbors,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2111-id-dup-0,Manuel Smith,405 316 241,504,Brenda Harbors,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2111-id-dup-1,Manuel Smith,405 316 241,504,Brenda 2Harbors,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2111-id-dup-2,Manuel Smith,405 316 241,504,Brenda H arbors,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2111-id-dup-3,Manuel Smith,405 316 241,504,Brenda H arbors,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2111-id-dup-4,Manuel Smith,405 316 241,504,Harbors Brenda,Reynoldschester,New Brunswick,65862,1995-07-22,515-693-3160
+rec-2112-id,Tina Ross,431 408 277,2665,Butler Loaf,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2112-id-dup-0,Tina Ross,431 408 277,2665,Loaf Butler,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2112-id-dup-1,Tina Ross,431 408 277,2665,Butler 9Loaf,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2112-id-dup-2,Tina Ross,431 408 277,2665,,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2112-id-dup-3,Tina Ross,431 408 277,2665,Loaf Butler,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2112-id-dup-4,Tina Ross,431 408 277,2665,Butler Loaf,North Ashleystad,Quebec,29961,1978-01-03,(438) 436-0878
+rec-2113-id,Patricia Lewis,550 862 346,61715,Jerome Turnpike,West Jacob,Manitoba,27266,2004-12-10,(339) 785-1358 x710
+rec-2113-id-dup-0,Patricia Lewis,550 862 346,61715,,West Jacob,Manitoba,27266,2004-12-10,(339) 785-1358 x710
+rec-2113-id-dup-1,Patricia Lewis,550 862 346,61715,Jerome Tunrpike,West Jacob,Manitoba,27266,2004-12-10,(339) 785-1358 x710
+rec-2113-id-dup-2,Patricia Lewis,550 862 346,61715,Jerome Turnpike,West Jacob,Manitoba,27266,2004-12-10,(339) 785-1358 x710
+rec-2113-id-dup-3,Patricia Lewis,550 862 346,61715,,West Jacob,Manitoba,27266,2004-12-10,(339) 785-1358 x710
+rec-2114-id,Zachary Frye,588 061 358,803,Zachary Heights,Bennettbury,Nunavut,30135,1977-09-02,1-811-892-8525
+rec-2114-id-dup-0,Zachary Frye,588 061 358,803,Christopher Road,Bennettbury,Nunavut,30135,1977-09-02,1-811-892-8525
+rec-2114-id-dup-1,Zachary Frye,588 061 358,803,Shelly Circles,Bennettbury,Nunavut,30135,1977-09-02,1-811-892-8525
+rec-2114-id-dup-2,Zachary Frye,588 061 358,803,,Bennettbury,Nunavut,30135,1977-09-02,1-811-892-8525
+rec-2115-id,Gabriel Lamb,135 206 712,7732,Robert Center,Angelamouth,Alberta,08931,1985-04-12,1-644-816-2486
+rec-2115-id-dup-0,Gabriel Lamb,135 206 712,7732,Robert Center,Angelamouth,Alberta,08931,1985-04-12,1-644-816-2486
+rec-2115-id-dup-1,Gabriel Lamb,135 206 712,7732,Robert Caenter,Angelamouth,Alberta,08931,1985-04-12,1-644-816-2486
+rec-2115-id-dup-2,Gabriel Lamb,135 206 712,7732,,Angelamouth,Alberta,08931,1985-04-12,1-644-816-2486
+rec-2116-id,Sherry Lindsey,047 331 558,27326,Tamara Inlet,Nixonview,Quebec,68488,1971-11-14,1-656-655-2586
+rec-2116-id-dup-0,Sherry Lindsey,047 331 558,27326,Mcdonald Squares,Nixonview,Quebec,68488,1971-11-14,1-656-655-2586
+rec-2116-id-dup-1,Sherry Lindsey,047 331 558,27326,Tamara In let,Nixonview,Quebec,68488,1971-11-14,1-656-655-2586
+rec-2117-id,Danielle Khan,113 254 031,1663,Ramirez Wells,West Karenfort,Saskatchewan,40299,1982-11-13,+1 (851) 561-0639
+rec-2117-id-dup-0,Danielle Khan,113 254 031,1663,,West Karenfort,Saskatchewan,40299,1982-11-13,+1 (851) 561-0639
+rec-2117-id-dup-1,Danielle Khan,113 254 031,1663,Wells Ramirez,West Karenfort,Saskatchewan,40299,1982-11-13,+1 (851) 561-0639
+rec-2117-id-dup-2,Danielle Khan,113 254 031,1663,Wells Ramirez,West Karenfort,Saskatchewan,40299,1982-11-13,+1 (851) 561-0639
+rec-2118-id,Brittany Harrison,186 082 517,33635,Mariah Pines,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2118-id-dup-0,Brittany Harrison,186 082 517,33635,Mata Wells,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2118-id-dup-1,Brittany aHrrison,186 082 517,33635,Mariah Pines,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2118-id-dup-2,Brittany Harrison,186 082 517,33635,,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2118-id-dup-3,Brittany Harrison,186 082 517,33635,Mariah Pines,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2118-id-dup-4,Brittany Harrison,186 082 517,33635,Mariah Pines,Loriburgh,Alberta,32009,1982-12-14,+1 (407) 913-9074
+rec-2119-id,David Cruz,617 532 809,94410,Allison Landing,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2119-id-dup-0,David Cruz,617 532 809,94410,Allison Lsanding,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2119-id-dup-1,David Cruz,617 532 809,94410,,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2119-id-dup-2,David Cruz,617 532 809,94410,Amy Crescent,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2119-id-dup-3,David Cruz,617 532 809,94410,Allison L anding,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2119-id-dup-4,David Cruz,617 532 809,94410,Robinson Lodge,North Brandon,Yukon Territory,07173,2017-02-27,518-780-9350
+rec-2120-id,Yvonne Fernandez,133 281 071,414,Amanda Meadow,Herreraberg,Quebec,34631,1982-09-10,816.309.0636
+rec-2120-id-dup-0,Yvonne Fernandez,133 281 071,414,Amanda M eadow,Herreraberg,Quebec,34631,1982-09-10,816.309.0636
+rec-2120-id-dup-1,Yvonne Fernandez,133 281 071,414,Johns Shore,Herreraberg,Quebec,34631,1982-09-10,816.309.0636
+rec-2120-id-dup-2,Yvonne Fernandez,133 281 071,414,Eric Wall,Herreraberg,Quebec,34631,1982-09-10,816.309.0636
+rec-2120-id-dup-3,Yvonne Fernandez,133 281 071,414,Meadow Amanda,Herreraberg,Quebec,34631,1982-09-10,816.309.0636
+rec-2121-id,Brian Anthony,052 446 689,6222,Brown Neck,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2121-id-dup-0,Brian Anthony,052 446 689,6222,,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2121-id-dup-1,Brian Ant hony,052 446 689,6222,Brown Neck,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2121-id-dup-2,Brian Anthony,052 446 689,6222,Brown Neck,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2121-id-dup-3,Anthony Brian,052 446 689,6222,Brown Neck,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2121-id-dup-4,Brian Anthony,052 446 689,6222,Linda Pass,New Sonya,Saskatchewan,46286,1998-04-30,1-171-212-5395
+rec-2122-id,Johnny Arias,065 811 838,5967,George Crescent,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2122-id-dup-0,Johnny Arias,065 811 838,5967,Crescent George,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2122-id-dup-1,Johnny Arias,065 811 838,5967,Haney Neck,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2122-id-dup-2,Johnny Arias,065 811 838,5967,George Cr escent,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2122-id-dup-3,Johnny Arias,065 811 838,5967,Thomas Center,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2122-id-dup-4,Johnny Arias,065 811 838,5967,George Crescent,Serranostad,Nunavut,96149,1978-08-02,1 (734) 452-8096
+rec-2123-id,Kyle Jennings,826 031 189,001,Williams Parks,Pamelabury,New Brunswick,96803,1978-10-29,373-340-8231 x851
+rec-2123-id-dup-0,Kyle Jennings,826 031 189,001,Michelle Road,Pamelabury,New Brunswick,96803,1978-10-29,373-340-8231 x851
+rec-2123-id-dup-1,Kyle Jennings,826 031 189,001,WilliamsP arks,Pamelabury,New Brunswick,96803,1978-10-29,373-340-8231 x851
+rec-2123-id-dup-2,Kyle Jennings,826 031 189,001,Parks Williams,Pamelabury,New Brunswick,96803,1978-10-29,373-340-8231 x851
+rec-2124-id,William Cox,541 603 486,8439,Sharon Loaf,Lake Taraton,Manitoba,26894,1977-12-25,825-166-6572 x621
+rec-2124-id-dup-0,William Cox,541 603 486,8439,Sharon Loaf,Lake Taraton,Manitoba,26894,1977-12-25,825-166-6572 x621
+rec-2124-id-dup-1,William Cox,541 603 486,8439,Sharon Loaf,Lake Taraton,Manitoba,26894,1977-12-25,825-166-6572 x621
+rec-2124-id-dup-2,William Cox,541 603 486,8439,,Lake Taraton,Manitoba,26894,1977-12-25,825-166-6572 x621
+rec-2124-id-dup-3,William Cox,541 603 486,8439,Sharon L oaf,Lake Taraton,Manitoba,26894,1977-12-25,825-166-6572 x621
+rec-2125-id,Jason Ramirez,238 776 124,588,Rebecca Mission,Port Monica,British Columbia,59132,2012-10-21,1 (883) 075-0990
+rec-2125-id-dup-0,Jason Ramirez,238 776 124,588,Mission Rebecca,Port Monica,British Columbia,59132,2012-10-21,1 (883) 075-0990
+rec-2125-id-dup-1,Jason Ramirez,238 776 124,588,Rebecca M ission,Port Monica,British Columbia,59132,2012-10-21,1 (883) 075-0990
+rec-2125-id-dup-2,Jason Ramirez,238 776 124,588,,Port Monica,British Columbia,59132,2012-10-21,1 (883) 075-0990
+rec-2125-id-dup-3,Jason Ramirez,238 776 124,588,Rebecca Mission,Port Monica,British Columbia,59132,2012-10-21,1 (883) 075-0990
+rec-2126-id,Maxwell Simmons,657 034 229,668,Silva Circle,Obrienshire,Saskatchewan,50481,1986-08-19,561-053-5391 x129
+rec-2126-id-dup-0,Maxwell Simmons,657 034 229,668,Silva Circle,Obrienshire,Saskatchewan,50481,1986-08-19,561-053-5391 x129
+rec-2126-id-dup-1,Maxwell Simmons,657 034 229,668,Bianca Shores,Obrienshire,Saskatchewan,50481,1986-08-19,561-053-5391 x129
+rec-2127-id,John Cook,610 286 775,31730,Keith Highway,Joyside,Alberta,39783,1981-11-24,(431) 119-4723 x547
+rec-2127-id-dup-0,John Cook,610 286 775,31730,,Joyside,Alberta,39783,1981-11-24,(431) 119-4723 x547
+rec-2127-id-dup-1,John Cook,610 286 775,31730,Stevens Dale,Joyside,Alberta,39783,1981-11-24,(431) 119-4723 x547
+rec-2128-id,Carl Jones,335 044 285,918,David Lights,South Jennifer,Prince Edward Island,86972,2014-11-22,914-720-4042
+rec-2128-id-dup-0,Carl Jones,335 044 285,918,Lights David,South Jennifer,Prince Edward Island,86972,2014-11-22,914-720-4042
+rec-2128-id-dup-1,Carl Jones,335 044 285,918,David L ights,South Jennifer,Prince Edward Island,86972,2014-11-22,914-720-4042
+rec-2128-id-dup-2,Jones Carl,335 044 285,918,David Lights,South Jennifer,Prince Edward Island,86972,2014-11-22,914-720-4042
+rec-2128-id-dup-3,Carl Jones,335 044 285,918,David L ights,South Jennifer,Prince Edward Island,86972,2014-11-22,914-720-4042
+rec-2129-id,Shelly Carr,164 783 284,77281,Lam Alley,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2129-id-dup-0,Shelly Carr,164 783 284,77281,Lam lAley,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2129-id-dup-1,Shelly Carr,164 783 284,77281,,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2129-id-dup-2,Shelly Carr,164 783 284,77281,,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2129-id-dup-3,Shelly Carr,164 783 284,77281,Lam A lley,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2129-id-dup-4,Shelly Carr,164 783 284,77281,Lam Alley,Lake Blakehaven,Quebec,06360,1970-09-27,820-996-5392
+rec-2130-id,Joshua Jones,311 880 538,07947,Moreno Loop,Lake Charles,British Columbia,78788,2005-05-02,377-127-3487 x530
+rec-2130-id-dup-0,Joshua Jones,311 880 538,07947,Moreno L oop,Lake Charles,British Columbia,78788,2005-05-02,377-127-3487 x530
+rec-2130-id-dup-1,Joshua Jones,311 880 538,07947,Moreno Loop,Lake Charles,British Columbia,78788,2005-05-02,377-127-3487 x530
+rec-2131-id,Jeremiah Khan,238 718 308,0156,Timothy Bypass,Kingland,Newfoundland and Labrador,81376,1994-09-17,1 (271) 575-4725
+rec-2131-id-dup-0,Christine Rodriguez,238 718 308,0156,Timothy Bypass,Kingland,Newfoundland and Labrador,81376,1994-09-17,1 (271) 575-4725
+rec-2131-id-dup-1,Jeremiah Khan,238 718 308,0156,Cory Course,Kingland,Newfoundland and Labrador,81376,1994-09-17,1 (271) 575-4725
+rec-2131-id-dup-2,Jeremiah Khan,238 718 308,0156,,Kingland,Newfoundland and Labrador,81376,1994-09-17,1 (271) 575-4725
+rec-2132-id,Colleen Greene,173 443 284,24683,Ellen Squares,Mccarthyshire,New Brunswick,43606,1996-12-15,1 (577) 370-2407
+rec-2132-id-dup-0,Colleen Greene,173 443 284,24683,Ellen Sq uares,Mccarthyshire,New Brunswick,43606,1996-12-15,1 (577) 370-2407
+rec-2132-id-dup-1,Colleen Greene,173 443 284,24683,Squares Ellen,Mccarthyshire,New Brunswick,43606,1996-12-15,1 (577) 370-2407
+rec-2132-id-dup-2,Colleen Greene,173 443 284,24683,Squares Ellen,Mccarthyshire,New Brunswick,43606,1996-12-15,1 (577) 370-2407
+rec-2132-id-dup-3,Colleen Greene,173 443 284,24683,Ellen Squares,Mccarthyshire,New Brunswick,43606,1996-12-15,1 (577) 370-2407
+rec-2133-id,Christina Austin,053 447 231,61229,Frank Isle,Port Lisa,Manitoba,35742,1989-01-22,127-919-3457 x689
+rec-2133-id-dup-0,Christina Austin,053 447 231,61229,Frank Isle,Port Lisa,Manitoba,35742,1989-01-22,127-919-3457 x689
+rec-2133-id-dup-1,Christina Austin,053 447 231,61229,Isle Frank,Port Lisa,Manitoba,35742,1989-01-22,127-919-3457 x689
+rec-2133-id-dup-2,Christina Austin,053 447 231,61229,Frank Isle,Port Lisa,Manitoba,35742,1989-01-22,127-919-3457 x689
+rec-2133-id-dup-3,Christina Austin,053 447 231,61229,Maria Canyon,Port Lisa,Manitoba,35742,1989-01-22,127-919-3457 x689
+rec-2134-id,Judith White,164 781 700,08818,Burke Lodge,Ryanburgh,New Brunswick,30419,2016-10-21,(475) 757-6688 x428
+rec-2134-id-dup-0,White Judith,164 781 700,08818,Burke Lodge,Ryanburgh,New Brunswick,30419,2016-10-21,(475) 757-6688 x428
+rec-2134-id-dup-1,Judith White,164 781 700,08818,Burke L odge,Ryanburgh,New Brunswick,30419,2016-10-21,(475) 757-6688 x428
+rec-2134-id-dup-2,Judith White,164 781 700,08818,Burke Lodge,Ryanburgh,New Brunswick,30419,2016-10-21,(475) 757-6688 x428
+rec-2135-id,Natasha Jackson,644 771 065,502,Bishop Gateway,Hardingmouth,Newfoundland and Labrador,34364,1995-04-04,+1 (345) 465-1848
+rec-2135-id-dup-0,Natasha Jackson,644 771 065,502,,Hardingmouth,Newfoundland and Labrador,34364,1995-04-04,+1 (345) 465-1848
+rec-2135-id-dup-1,Natasha Jackson,644 771 065,502,Schmidt Trail,Hardingmouth,Newfoundland and Labrador,34364,1995-04-04,+1 (345) 465-1848
+rec-2135-id-dup-2,Natasha Jackson,644 771 065,502,Bishop Gateway,Hardingmouth,Newfoundland and Labrador,34364,1995-04-04,+1 (345) 465-1848
+rec-2136-id,Heather Woods,522 388 354,9727,Good Path,North Jill,Yukon Territory,88407,2015-04-29,(240) 914-5246
+rec-2136-id-dup-0,Heather Woods,522 388 354,9727,Good P ath,North Jill,Yukon Territory,88407,2015-04-29,(240) 914-5246
+rec-2136-id-dup-1,Heather Woods,522 388 354,9727,Good P ath,North Jill,Yukon Territory,88407,2015-04-29,(240) 914-5246
+rec-2136-id-dup-2,Heather Woods,522 388 354,9727,Walter Highway,North Jill,Yukon Territory,88407,2015-04-29,(240) 914-5246
+rec-2137-id,David Miller,831 150 727,3563,Jessica Run,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2137-id-dup-0,David Miller,831 150 727,3563,,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2137-id-dup-1,David Miller,831 150 727,3563,Jessica Run,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2137-id-dup-2,David Miller,831 150 727,3563,Jessic a Run,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2137-id-dup-3,David Miller,831 150 727,3563,Christopher Center,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2137-id-dup-4,David Miller,831 150 727,3563,,East Nicole,British Columbia,64167,2002-11-26,106-596-4137
+rec-2138-id,James Myers,745 326 058,78942,Cassandra Green,Richardfurt,Newfoundland and Labrador,72024,2012-04-29,1 (752) 406-0282
+rec-2138-id-dup-0,James Myers,745 326 058,78942,Cassand ra Green,Richardfurt,Newfoundland and Labrador,72024,2012-04-29,1 (752) 406-0282
+rec-2138-id-dup-1,James Myers,745 326 058,78942,Hayes Fall,Richardfurt,Newfoundland and Labrador,72024,2012-04-29,1 (752) 406-0282
+rec-2138-id-dup-2,James Myers,745 326 058,78942,Cassandra Green,Richardfurt,Newfoundland and Labrador,72024,2012-04-29,1 (752) 406-0282
+rec-2139-id,Jennifer Carey,762 013 472,96416,Downs Drive,Morrisberg,Manitoba,26818,1982-06-18,1 (791) 372-9606
+rec-2139-id-dup-0,Jennifer Carey,762 013 472,96416,DownsD rive,Morrisberg,Manitoba,26818,1982-06-18,1 (791) 372-9606
+rec-2139-id-dup-1,Jennifer Carey,762 013 472,96416,Downs Drive,Morrisberg,Manitoba,26818,1982-06-18,1 (791) 372-9606
+rec-2140-id,Timothy Taylor,130 771 322,96470,Snyder Falls,Taylormouth,Northwest Territories,24144,2004-10-17,1 (149) 112-9704
+rec-2140-id-dup-0,Timothy Taylor,130 771 322,96470,Falls Snyder,Taylormouth,Northwest Territories,24144,2004-10-17,1 (149) 112-9704
+rec-2140-id-dup-1,Timothy Taylor,130 771 322,96470,Cory Ports,Taylormouth,Northwest Territories,24144,2004-10-17,1 (149) 112-9704
+rec-2140-id-dup-2,Timothy Taylor,130 771 322,96470,Snyder Falls,Taylormouth,Northwest Territories,24144,2004-10-17,1 (149) 112-9704
+rec-2140-id-dup-3,Timothy Taylor,130 771 322,96470,Brown Lodge,Taylormouth,Northwest Territories,24144,2004-10-17,1 (149) 112-9704
+rec-2141-id,John Reyes,665 071 452,0505,May Village,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2141-id-dup-0,John Reyes,665 071 452,0505,May Village,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2141-id-dup-1,Reyes John,665 071 452,0505,May Village,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2141-id-dup-2,John Reyes,665 071 452,0505,Lisa Glens,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2141-id-dup-3,John Reyes,665 071 452,0505,Village May,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2141-id-dup-4,John Reyes,665 071 452,0505,May Villge,West Bryan,Manitoba,74754,1985-11-08,(235) 891-1519
+rec-2142-id,Steven Blake,885 643 106,7543,Kristin Station,Port Patricia,Saskatchewan,34302,1996-05-09,457-863-7605
+rec-2142-id-dup-0,Steven Blake,885 643 106,7543,,Port Patricia,Saskatchewan,34302,1996-05-09,457-863-7605
+rec-2142-id-dup-1,Steven Blake,885 643 106,7543,,Port Patricia,Saskatchewan,34302,1996-05-09,457-863-7605
+rec-2142-id-dup-2,Steven Blake,885 643 106,7543,Station Kristin,Port Patricia,Saskatchewan,34302,1996-05-09,457-863-7605
+rec-2143-id,Laura Villarreal,235 882 354,78642,Sosa Walks,Scottland,Northwest Territories,19175,2001-08-19,+1 (811) 677-3416
+rec-2143-id-dup-0,Laura Villarreal,235 882 354,78642,Sosa Walks,Scottland,Northwest Territories,19175,2001-08-19,+1 (811) 677-3416
+rec-2143-id-dup-1,Laura Villarreal,235 882 354,78642,Walks Sosa,Scottland,Northwest Territories,19175,2001-08-19,+1 (811) 677-3416
+rec-2144-id,Erin Howe,455 470 260,01527,Palmer Flat,Stephanieport,Northwest Territories,95968,1975-01-06,388-360-0825
+rec-2144-id-dup-0,Erin Howe,455 470 260,01527,Palmer Flat,Stephanieport,Northwest Territories,95968,1975-01-06,388-360-0825
+rec-2144-id-dup-1,Howe Erin,455 470 260,01527,Palmer Flat,Stephanieport,Northwest Territories,95968,1975-01-06,388-360-0825
+rec-2144-id-dup-2,Erin Howe,455 470 260,01527,Bender Prairie,Stephanieport,Northwest Territories,95968,1975-01-06,388-360-0825
+rec-2145-id,Luis Brewer,470 531 880,8049,Steven Way,Phillipville,Saskatchewan,29071,1994-05-12,929-012-4273 x020
+rec-2145-id-dup-0,Luis Brewer,470 531 880,8049,Horn Mission,Phillipville,Saskatchewan,29071,1994-05-12,929-012-4273 x020
+rec-2145-id-dup-1,Luis Brewer,470 531 880,8049,Steven Way,Phillipville,Saskatchewan,29071,1994-05-12,929-012-4273 x020
+rec-2146-id,Alexander Simmons,084 735 646,8058,Stephen Green,Yolandafort,Yukon Territory,08253,2005-08-09,506-525-7847
+rec-2146-id-dup-0,Alexander Simmons,084 735 646,8058,Dorothy Shoals,Yolandafort,Yukon Territory,08253,2005-08-09,506-525-7847
+rec-2146-id-dup-1,Alexander Simmons,084 735 646,8058,Miller Viaduct,Yolandafort,Yukon Territory,08253,2005-08-09,506-525-7847
+rec-2146-id-dup-2,Alexander Simmons,084 735 646,8058,Stephen G reen,Yolandafort,Yukon Territory,08253,2005-08-09,506-525-7847
+rec-2146-id-dup-3,Alexander Simmons,084 735 646,8058,Stephe n Green,Yolandafort,Yukon Territory,08253,2005-08-09,506-525-7847
+rec-2147-id,Robert Caldwell,201 664 489,94009,Jason Rue,East Joshuaton,Nova Scotia,96004,2016-01-10,(700) 684-2513
+rec-2147-id-dup-0,Robert Caldwell,201 664 489,94009,Wright Point,East Joshuaton,Nova Scotia,96004,2016-01-10,(700) 684-2513
+rec-2147-id-dup-1,Robert Caldwell,201 664 489,94009,Jason Ru e,East Joshuaton,Nova Scotia,96004,2016-01-10,(700) 684-2513
+rec-2147-id-dup-2,Robert Caldwell,201 664 489,94009,Jason Rue,East Joshuaton,Nova Scotia,96004,2016-01-10,(700) 684-2513
+rec-2148-id,Jordan Grant,321 451 080,95411,Long Club,New Leslie,Prince Edward Island,18795,1982-04-13,(480) 719-5949
+rec-2148-id-dup-0,Jordan Grant,321 451 080,95411,Long C lub,New Leslie,Prince Edward Island,18795,1982-04-13,(480) 719-5949
+rec-2148-id-dup-1,Jordan Grant,321 451 080,95411,Club Long,New Leslie,Prince Edward Island,18795,1982-04-13,(480) 719-5949
+rec-2148-id-dup-2,Jordan Grant,321 451 080,95411,Long C lub,New Leslie,Prince Edward Island,18795,1982-04-13,(480) 719-5949
+rec-2148-id-dup-3,Jordan Grant,321 451 080,95411,Club Long,New Leslie,Prince Edward Island,18795,1982-04-13,(480) 719-5949
+rec-2149-id,Kyle Martinez,376 220 851,4309,Mitchell Islands,Lake Adam,Prince Edward Island,85908,2004-01-19,104 018 8031
+rec-2149-id-dup-0,Kyle Martinez,376 220 851,4309,Mitchell I slands,Lake Adam,Prince Edward Island,85908,2004-01-19,104 018 8031
+rec-2149-id-dup-1,Kyle Martinez,376 220 851,4309,Anna Knolls,Lake Adam,Prince Edward Island,85908,2004-01-19,104 018 8031
+rec-2149-id-dup-2,Kyle Martinez,376 220 851,4309,Mitchel l Islands,Lake Adam,Prince Edward Island,85908,2004-01-19,104 018 8031
+rec-2150-id,David Wong,027 154 160,3892,Ruth Oval,Romanhaven,Ontario,45862,1972-08-01,+1 (872) 150-4813
+rec-2150-id-dup-0,David Wong,027 154 160,3892,Rodriguez Extensions,Romanhaven,Ontario,45862,1972-08-01,+1 (872) 150-4813
+rec-2150-id-dup-1,David Wong,027 154 160,3892,Ruth Ov al,Romanhaven,Ontario,45862,1972-08-01,+1 (872) 150-4813
+rec-2150-id-dup-2,David Wong,027 154 160,3892,Ruth O val,Romanhaven,Ontario,45862,1972-08-01,+1 (872) 150-4813
+rec-2151-id,John Harrison,255 076 432,7681,Mason Junctions,Port Joyce,Alberta,37507,1973-06-09,(749) 981-8630 x483
+rec-2151-id-dup-0,John Harrison,255 076 432,7681,Mason Jucntions,Port Joyce,Alberta,37507,1973-06-09,(749) 981-8630 x483
+rec-2151-id-dup-1,Harrison John,255 076 432,7681,Mason Junctions,Port Joyce,Alberta,37507,1973-06-09,(749) 981-8630 x483
+rec-2152-id,Paul Thomas,358 843 514,9003,Timothy Station,Aarontown,Nova Scotia,55901,2009-11-04,601-130-8792
+rec-2152-id-dup-0,Paul Thomas,358 843 514,9003,Timothy Station,Aarontown,Nova Scotia,55901,2009-11-04,601-130-8792
+rec-2152-id-dup-1,Paul Thomas,358 843 514,9003,Station Timothy,Aarontown,Nova Scotia,55901,2009-11-04,601-130-8792
+rec-2152-id-dup-2,Paul Thomas,358 843 514,9003,,Aarontown,Nova Scotia,55901,2009-11-04,601-130-8792
+rec-2153-id,Matthew Schmitt,605 834 118,0905,Steven Glens,Dennisside,Nunavut,09496,1977-04-08,(716) 794-3379
+rec-2153-id-dup-0,Matthew Schmitt,605 834 118,0905,StevenG lens,Dennisside,Nunavut,09496,1977-04-08,(716) 794-3379
+rec-2153-id-dup-1,Matthew Schmitt,605 834 118,0905,Steven Glens,Dennisside,Nunavut,09496,1977-04-08,(716) 794-3379
+rec-2153-id-dup-2,Matthew Schmitt,605 834 118,0905,Steven Glens,Dennisside,Nunavut,09496,1977-04-08,(716) 794-3379
+rec-2154-id,Heather Hunt,758 046 239,3309,Garrett Mill,South Douglas,Yukon Territory,78172,1975-09-23,1-592-474-7954
+rec-2154-id-dup-0,Heather Hunt,758 046 239,3309,Garret t Mill,South Douglas,Yukon Territory,78172,1975-09-23,1-592-474-7954
+rec-2154-id-dup-1,Eric Stevens,758 046 239,3309,Garrett Mill,South Douglas,Yukon Territory,78172,1975-09-23,1-592-474-7954
+rec-2155-id,Derrick Cruz,815 033 188,81526,Hendricks Mountains,Cooleymouth,Saskatchewan,07389,1988-02-25,800-128-7477
+rec-2155-id-dup-0,Derrick Cruz,815 033 188,81526,Hendricks Mountains,Cooleymouth,Saskatchewan,07389,1988-02-25,800-128-7477
+rec-2155-id-dup-1,Derrick Cruz,815 033 188,81526,Hendricks Mountains,Cooleymouth,Saskatchewan,07389,1988-02-25,800-128-7477
+rec-2155-id-dup-2,Derrick Cruz,815 033 188,81526,Mountains Hendricks,Cooleymouth,Saskatchewan,07389,1988-02-25,800-128-7477
+rec-2155-id-dup-3,Derric k Cruz,815 033 188,81526,Hendricks Mountains,Cooleymouth,Saskatchewan,07389,1988-02-25,800-128-7477
+rec-2156-id,Christopher Smith,185 164 324,42555,Harris Branch,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2156-id-dup-0,Christopher Smith,185 164 324,42555,,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2156-id-dup-1,Christopher Smith,185 164 324,42555,,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2156-id-dup-2,Christopher Smith,185 164 324,42555,Michael Groves,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2156-id-dup-3,Christopher Smith,185 164 324,42555,Harris 9Branch,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2156-id-dup-4,Christopher Smith,185 164 324,42555,Larry Walks,Port Amy,Nunavut,87712,1973-11-27,+1 (571) 061-0409
+rec-2157-id,Anthony Hamilton,721 106 672,96039,Jeremy Ridge,Wilcoxfort,Manitoba,08108,2005-10-28,557-968-8393 x699
+rec-2157-id-dup-0,Anthony Hamilton,721 106 672,96039,Brooks Haven,Wilcoxfort,Manitoba,08108,2005-10-28,557-968-8393 x699
+rec-2157-id-dup-1,Anthony Hamilton,721 106 672,96039,,Wilcoxfort,Manitoba,08108,2005-10-28,557-968-8393 x699
+rec-2157-id-dup-2,Anthony Hamilton,721 106 672,96039,Miller Brooks,Wilcoxfort,Manitoba,08108,2005-10-28,557-968-8393 x699
+rec-2158-id,Tricia Washington,834 538 076,574,Rodriguez Port,New Tanya,Northwest Territories,60265,1998-12-29,731-835-1814
+rec-2158-id-dup-0,Tricia Washington,834 538 076,574,Port Rodriguez,New Tanya,Northwest Territories,60265,1998-12-29,731-835-1814
+rec-2158-id-dup-1,Tricia Washington,834 538 076,574,Rodrigue z Port,New Tanya,Northwest Territories,60265,1998-12-29,731-835-1814
+rec-2159-id,Chris Boyer,413 304 189,59824,Daniel Views,Porterburgh,Ontario,86160,1982-06-23,461 598 4512
+rec-2159-id-dup-0,Chris Boyer,413 304 189,59824,Daniel Views,Porterburgh,Ontario,86160,1982-06-23,461 598 4512
+rec-2159-id-dup-1,Chris Boyer,413 304 189,59824,Daniel Views,Porterburgh,Ontario,86160,1982-06-23,461 598 4512
+rec-2159-id-dup-2,Chris Boyer,413 304 189,59824,Daniel Views,Porterburgh,Ontario,86160,1982-06-23,461 598 4512
+rec-2159-id-dup-3,Chris Boyer,413 304 189,59824,Daniel Views,Porterburgh,Ontario,86160,1982-06-23,461 598 4512
+rec-2160-id,Steven Velasquez,147 220 370,362,Johnson Expressway,Pamelaside,Yukon Territory,26266,1982-09-01,1-515-841-1264
+rec-2160-id-dup-0,Steven Velasquez,147 220 370,362,,Pamelaside,Yukon Territory,26266,1982-09-01,1-515-841-1264
+rec-2160-id-dup-1,Steven Velasquez,147 220 370,362,Expressway Johnson,Pamelaside,Yukon Territory,26266,1982-09-01,1-515-841-1264
+rec-2160-id-dup-2,Steven Velasquez,147 220 370,362,Johnson Expressway,Pamelaside,Yukon Territory,26266,1982-09-01,1-515-841-1264
+rec-2161-id,Gregory Wilson,853 348 274,9732,Aaron Cove,South Taylor,Saskatchewan,56807,2018-04-06,301-984-8456
+rec-2161-id-dup-0,Gregory Wilson,853 348 274,9732,Aaro nCove,South Taylor,Saskatchewan,56807,2018-04-06,301-984-8456
+rec-2161-id-dup-1,Gregory Wilson,853 348 274,9732,,South Taylor,Saskatchewan,56807,2018-04-06,301-984-8456
+rec-2161-id-dup-2,Gregory Wilson,853 348 274,9732,Aaron 3Cove,South Taylor,Saskatchewan,56807,2018-04-06,301-984-8456
+rec-2161-id-dup-3,Gregory Woilson,853 348 274,9732,Aaron Cove,South Taylor,Saskatchewan,56807,2018-04-06,301-984-8456
+rec-2162-id,Joseph Jones,802 855 668,87097,Houston Islands,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2162-id-dup-0,Joseph Jones,802 855 668,87097,Brian Landing,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2162-id-dup-1,Joseph Jones,802 855 668,87097,Watson Fall,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2162-id-dup-2,Joseph Jones,802 855 668,87097,Burgess Street,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2162-id-dup-3,Joseph Jones,802 855 668,87097,Houston Islands,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2162-id-dup-4,Joseph Jones,802 855 668,87097,,Lake Josephfurt,Nunavut,18638,1994-04-13,544-667-8574
+rec-2163-id,Eric Downs,033 887 258,24477,Robert Plaza,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2163-id-dup-0,Eric Downs,033 887 258,24477,Robert Plaza,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2163-id-dup-1,Eric Downs,033 887 258,24477,Rober tPlaza,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2163-id-dup-2,Eric Downs,033 887 258,24477,,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2163-id-dup-3,Eric Downs,033 887 258,24477,,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2163-id-dup-4,Eric Downs,033 887 258,24477,Robert Plaza,Lake Sabrinaport,Newfoundland and Labrador,33487,1982-06-12,(606) 957-8931 x030
+rec-2164-id,Sarah Tanner,710 614 678,1286,Sharon Skyway,Lake Christophertown,Manitoba,13532,2009-02-19,665.977.9323
+rec-2164-id-dup-0,Sarah Ta nner,710 614 678,1286,Sharon Skyway,Lake Christophertown,Manitoba,13532,2009-02-19,665.977.9323
+rec-2164-id-dup-1,Richard Wilson,710 614 678,1286,Sharon Skyway,Lake Christophertown,Manitoba,13532,2009-02-19,665.977.9323
+rec-2164-id-dup-2,Sarah Tanner,710 614 678,1286,Skyway Sharon,Lake Christophertown,Manitoba,13532,2009-02-19,665.977.9323
+rec-2164-id-dup-3,Tanner Sarah,710 614 678,1286,Sharon Skyway,Lake Christophertown,Manitoba,13532,2009-02-19,665.977.9323
+rec-2165-id,Rebecca Marquez,442 306 551,819,Rachel Loop,Port David,Alberta,08629,1992-02-10,(498) 826-0946
+rec-2165-id-dup-0,Rebecca Marquez,442 306 551,819,Rachel Loop,Port David,Alberta,08629,1992-02-10,(498) 826-0946
+rec-2165-id-dup-1,Rebecca Marquez,442 306 551,819,Rachel Loop,Port David,Alberta,08629,1992-02-10,(498) 826-0946
+rec-2166-id,Zachary Ramirez,713 410 520,972,Theodore Inlet,West Lori,Saskatchewan,36718,1984-09-03,1 (404) 289-8297
+rec-2166-id-dup-0,Zachary Ramirez,713 410 520,972,Melissa Well,West Lori,Saskatchewan,36718,1984-09-03,1 (404) 289-8297
+rec-2166-id-dup-1,Zachary Ramirez,713 410 520,972,Theodor eInlet,West Lori,Saskatchewan,36718,1984-09-03,1 (404) 289-8297
+rec-2166-id-dup-2,Zachary Ramirez,713 410 520,972,,West Lori,Saskatchewan,36718,1984-09-03,1 (404) 289-8297
+rec-2166-id-dup-3,Zachary Ramirez,713 410 520,972,Theodor e Inlet,West Lori,Saskatchewan,36718,1984-09-03,1 (404) 289-8297
+rec-2167-id,Timothy Baker,310 274 139,841,Bauer Pike,Collinston,Ontario,89784,1998-12-25,950.290.2065
+rec-2167-id-dup-0,Timothy Baker,310 274 139,841,Bauer Pike,Collinston,Ontario,89784,1998-12-25,950.290.2065
+rec-2167-id-dup-1,Timothy Baker,310 274 139,841,Bauer P ike,Collinston,Ontario,89784,1998-12-25,950.290.2065
+rec-2167-id-dup-2,Timothy Baker,310 274 139,841,Bauer Pike,Collinston,Ontario,89784,1998-12-25,950.290.2065
+rec-2168-id,Shelly Medina,867 543 209,096,Stewart Mountains,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2168-id-dup-0,Shelly Medina,867 543 209,096,Mountains Stewart,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2168-id-dup-1,Shelly Medina,867 543 209,096,Mountains Stewart,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2168-id-dup-2,Shelly Medina,867 543 209,096,Johnson Ranch,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2168-id-dup-3,Shelly Medina,867 543 209,096,Mountains Stewart,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2168-id-dup-4,Shelly Medina,867 543 209,096,Stewart Mo untains,Chanburgh,Nunavut,94934,2013-01-05,1 (953) 308-9334
+rec-2169-id,David Morris,761 220 649,9228,Davis Path,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2169-id-dup-0,Morris David,761 220 649,9228,Davis Path,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2169-id-dup-1,David Morris,761 220 649,9228,Path Davis,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2169-id-dup-2,David Morris,761 220 649,9228,Raymond Tunnel,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2169-id-dup-3,David Morris,761 220 649,9228,Davis Pa th,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2169-id-dup-4,,761 220 649,9228,Davis Path,South Gregory,Nova Scotia,59410,2014-11-13,(185) 925-6383 x598
+rec-2170-id,Scott Jones,654 654 714,3040,Kevin Loaf,Lake Ryanland,Northwest Territories,56837,2005-11-26,1 (680) 788-6899
+rec-2170-id-dup-0,Scott Jones,654 654 714,3040,Loaf Kevin,Lake Ryanland,Northwest Territories,56837,2005-11-26,1 (680) 788-6899
+rec-2170-id-dup-1,Scott Jones,654 654 714,3040,,Lake Ryanland,Northwest Territories,56837,2005-11-26,1 (680) 788-6899
+rec-2170-id-dup-2,Scott Jones,654 654 714,3040,Kevin L oaf,Lake Ryanland,Northwest Territories,56837,2005-11-26,1 (680) 788-6899
+rec-2171-id,Scott Haynes,105 223 762,01676,Robert Islands,Nicholasfort,Alberta,65870,1980-12-03,+1 (403) 468-9057
+rec-2171-id-dup-0,Scott Haynes,105 223 762,01676,Robert I slands,Nicholasfort,Alberta,65870,1980-12-03,+1 (403) 468-9057
+rec-2171-id-dup-1,Scott Haynes,105 223 762,01676,,Nicholasfort,Alberta,65870,1980-12-03,+1 (403) 468-9057
+rec-2171-id-dup-2,Scott Haynes,105 223 762,01676,Islands Robert,Nicholasfort,Alberta,65870,1980-12-03,+1 (403) 468-9057
+rec-2171-id-dup-3,Scott Haynes,105 223 762,01676,Robert Islands,Nicholasfort,Alberta,65870,1980-12-03,+1 (403) 468-9057
+rec-2172-id,Ronald Gay,314 813 544,2383,Mary Circles,Port Oscartown,Newfoundland and Labrador,44358,2007-09-11,(713) 885-8868
+rec-2172-id-dup-0,Ronald Gay,314 813 544,2383,Alison Keys,Port Oscartown,Newfoundland and Labrador,44358,2007-09-11,(713) 885-8868
+rec-2172-id-dup-1,Ronald Gay,314 813 544,2383,Mary Ci rcles,Port Oscartown,Newfoundland and Labrador,44358,2007-09-11,(713) 885-8868
+rec-2172-id-dup-2,Ronald Gay,314 813 544,2383,,Port Oscartown,Newfoundland and Labrador,44358,2007-09-11,(713) 885-8868
+rec-2172-id-dup-3,Ronald Gay,314 813 544,2383,Mary Cir cles,Port Oscartown,Newfoundland and Labrador,44358,2007-09-11,(713) 885-8868
+rec-2173-id,Melissa Diaz,718 745 334,89812,Eric Hill,Jonesmouth,New Brunswick,47869,1975-03-24,268 613 3910
+rec-2173-id-dup-0,Melissa Diaz,718 745 334,89812,Eric iHll,Jonesmouth,New Brunswick,47869,1975-03-24,268 613 3910
+rec-2173-id-dup-1,Melissa Diaz,718 745 334,89812,Chavez Estate,Jonesmouth,New Brunswick,47869,1975-03-24,268 613 3910
+rec-2173-id-dup-2,Melissa Diaz,718 745 334,89812,Gary Groves,Jonesmouth,New Brunswick,47869,1975-03-24,268 613 3910
+rec-2174-id,Jennifer Ross,860 855 618,866,Bates Plaza,Haneymouth,Northwest Territories,67580,1995-07-03,853-071-7369 x825
+rec-2174-id-dup-0,Timothy Willis,860 855 618,866,Bates Plaza,Haneymouth,Northwest Territories,67580,1995-07-03,853-071-7369 x825
+rec-2175-id,Scott Stephens,128 371 309,5576,Perry Drive,South Nancy,Northwest Territories,42839,2000-03-01,721.344.0392
+rec-2175-id-dup-0,Scott Stephens,128 371 309,5576,Perry Drive,South Nancy,Northwest Territories,42839,2000-03-01,721.344.0392
+rec-2175-id-dup-1,Scott Stephens,128 371 309,5576,Drive Perry,South Nancy,Northwest Territories,42839,2000-03-01,721.344.0392
+rec-2175-id-dup-2,Scott Stephens,128 371 309,5576,Perry Drive,South Nancy,Northwest Territories,42839,2000-03-01,721.344.0392
+rec-2175-id-dup-3,Scott Stephens,128 371 309,5576,Perry D rive,South Nancy,Northwest Territories,42839,2000-03-01,721.344.0392
+rec-2176-id,Denise Williamson,260 273 875,69804,Matthew Circle,South Joy,Northwest Territories,76324,2001-07-28,(218) 891-2399 x062
+rec-2176-id-dup-0,Denise Williamson,260 273 875,69804,Matthew Circle,South Joy,Northwest Territories,76324,2001-07-28,(218) 891-2399 x062
+rec-2176-id-dup-1,Denise Williamson,260 273 875,69804,Brown Summit,South Joy,Northwest Territories,76324,2001-07-28,(218) 891-2399 x062
+rec-2176-id-dup-2,Denise Williamson,260 273 875,69804,Matthew C ircle,South Joy,Northwest Territories,76324,2001-07-28,(218) 891-2399 x062
+rec-2176-id-dup-3,Denise Williamson,260 273 875,69804,Circle Matthew,South Joy,Northwest Territories,76324,2001-07-28,(218) 891-2399 x062
+rec-2177-id,Angel Todd,082 762 147,625,Peter Causeway,Evanschester,Alberta,15037,1993-03-18,(553) 032-6984
+rec-2177-id-dup-0,Angel Todd,082 762 147,625,Peter Causeway,Evanschester,Alberta,15037,1993-03-18,(553) 032-6984
+rec-2177-id-dup-1,Angel Todd,082 762 147,625,Causeway Peter,Evanschester,Alberta,15037,1993-03-18,(553) 032-6984
+rec-2177-id-dup-2,Angel Todd,082 762 147,625,Peter Cau seway,Evanschester,Alberta,15037,1993-03-18,(553) 032-6984
+rec-2178-id,Mr. Tracy Flores,468 317 284,1661,Stephanie Flats,Henrybury,Saskatchewan,62874,1994-11-06,998.944.5959
+rec-2178-id-dup-0,Mr. Tracy Flores,468 317 284,1661,Stephanie Flats,Henrybury,Saskatchewan,62874,1994-11-06,998.944.5959
+rec-2178-id-dup-1,Philip Carter,468 317 284,1661,Stephanie Flats,Henrybury,Saskatchewan,62874,1994-11-06,998.944.5959
+rec-2179-id,John Richardson,730 425 378,8228,Martinez Loop,South Michelleberg,Yukon Territory,97870,1972-04-05,393.876.9778
+rec-2179-id-dup-0,John Richardson,730 425 378,8228,Martinez Loop,South Michelleberg,Yukon Territory,97870,1972-04-05,393.876.9778
+rec-2179-id-dup-1,John Richardson,730 425 378,8228,Martinez Loop,South Michelleberg,Yukon Territory,97870,1972-04-05,393.876.9778
+rec-2179-id-dup-2,John Richardson,730 425 378,8228,,South Michelleberg,Yukon Territory,97870,1972-04-05,393.876.9778
+rec-2179-id-dup-3,John Richardson,730 425 378,8228,Loop Martinez,South Michelleberg,Yukon Territory,97870,1972-04-05,393.876.9778
+rec-2180-id,Samantha Price,237 554 464,1856,Hunter Stravenue,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2180-id-dup-0,Samantha Price,237 554 464,1856,Hunter Strvaenue,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2180-id-dup-1,Samantha Price,237 554 464,1856,Hunter St ravenue,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2180-id-dup-2,Samantha Price,237 554 464,1856,,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2180-id-dup-3,Samantha Price,237 554 464,1856,Hunter Stravenue,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2180-id-dup-4,Samantha Price,237 554 464,1856,Ballard Mission,South Tony,Nunavut,56176,2016-07-19,+1 (559) 631-8241
+rec-2181-id,Megan Bennett,541 340 766,11531,Suzanne Passage,Brandonton,Newfoundland and Labrador,10229,1971-10-14,831.023.8501
+rec-2181-id-dup-0,Megan Bennett,541 340 766,11531,Passage Suzanne,Brandonton,Newfoundland and Labrador,10229,1971-10-14,831.023.8501
+rec-2181-id-dup-1,Megan Bennett,541 340 766,11531,Suzanne Passage,Brandonton,Newfoundland and Labrador,10229,1971-10-14,831.023.8501
+rec-2182-id,Chris Poole,502 274 160,64858,Matthew Harbors,Garciamouth,Nunavut,17815,1973-08-05,499 200 6663
+rec-2182-id-dup-0,Chris Poole,502 274 160,64858,Garcia Ville,Garciamouth,Nunavut,17815,1973-08-05,499 200 6663
+rec-2182-id-dup-1,Chris Poole,502 274 160,64858,Matthew Harbors,Garciamouth,Nunavut,17815,1973-08-05,499 200 6663
+rec-2182-id-dup-2,Chris Poole,502 274 160,64858,Matthew H arbors,Garciamouth,Nunavut,17815,1973-08-05,499 200 6663
+rec-2183-id,Mr. Matthew Johnson DDS,135 644 284,530,Erin Mount,Mortonhaven,New Brunswick,27425,2016-12-08,(468) 278-5007
+rec-2183-id-dup-0,Mr. Matthew Johnson DDS,135 644 284,530,Dorsey Coves,Mortonhaven,New Brunswick,27425,2016-12-08,(468) 278-5007
+rec-2183-id-dup-1,Mr. Matthew Johnson DDS,135 644 284,530,Erin M ount,Mortonhaven,New Brunswick,27425,2016-12-08,(468) 278-5007
+rec-2183-id-dup-2,Mr. Matthew Johnson DDS,135 644 284,530,Erin Mount,Mortonhaven,New Brunswick,27425,2016-12-08,(468) 278-5007
+rec-2183-id-dup-3,Mr. Matthew Johnson DDS,135 644 284,530,Erin Mount,Mortonhaven,New Brunswick,27425,2016-12-08,(468) 278-5007
+rec-2184-id,Barbara Knight,518 340 187,0740,Ashley Port,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2184-id-dup-0,Barbara Knight,518 340 187,0740,Rodriguez Forest,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2184-id-dup-1,Barbara Knight,518 340 187,0740,Lewis Trail,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2184-id-dup-2,Barbara Knight,518 340 187,0740,Ashley Port,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2184-id-dup-3,Barbara Knight,518 340 187,0740,Zachary View,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2184-id-dup-4,Barbara Knight,518 340 187,0740,Port Ashley,Samuelchester,Northwest Territories,24760,1992-05-04,+1 (798) 192-6048
+rec-2185-id,Joseph Reyes,105 234 231,5005,Cynthia Harbors,Brownmouth,Saskatchewan,99792,1983-06-04,186.940.9974
+rec-2185-id-dup-0,Joseph Reyes,105 234 231,5005,Harbors Cynthia,Brownmouth,Saskatchewan,99792,1983-06-04,186.940.9974
+rec-2185-id-dup-1,Joseph Reyes,105 234 231,5005,Shaun Mount,Brownmouth,Saskatchewan,99792,1983-06-04,186.940.9974
+rec-2185-id-dup-2,Joseph Reyes,105 234 231,5005,Harbors Cynthia,Brownmouth,Saskatchewan,99792,1983-06-04,186.940.9974
+rec-2186-id,Kelly Nolan,416 556 801,998,Wong Unions,Gonzalezmouth,British Columbia,83732,1987-06-12,596-488-5841
+rec-2186-id-dup-0,Kelly Nolan,416 556 801,998,Wong nUions,Gonzalezmouth,British Columbia,83732,1987-06-12,596-488-5841
+rec-2186-id-dup-1,Kelly Nolan,416 556 801,998,Wong Unions,Gonzalezmouth,British Columbia,83732,1987-06-12,596-488-5841
+rec-2186-id-dup-2,Kelly Nolan,416 556 801,998,Wong Un ions,Gonzalezmouth,British Columbia,83732,1987-06-12,596-488-5841
+rec-2186-id-dup-3,Kelly Nolan,416 556 801,998,Wong Un ions,Gonzalezmouth,British Columbia,83732,1987-06-12,596-488-5841
+rec-2187-id,Matthew Jacobson,528 133 051,177,Sonya Forest,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2187-id-dup-0,Matthew Jacobson,528 133 051,177,John Street,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2187-id-dup-1,Matthew Jacobson,528 133 051,177,Francis Lakes,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2187-id-dup-2,Matthew Jacobson,528 133 051,177,York Mission,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2187-id-dup-3,Matthew Jacobson,528 133 051,177,,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2187-id-dup-4,Matthew Jacobson,528 133 051,177,Sonya Forest,North Christopherburgh,Saskatchewan,69790,1981-02-27,+1 (346) 536-8552
+rec-2188-id,Susan Stanley,358 143 774,5848,Katherine Flat,South Lynnside,Alberta,38708,1972-12-27,648-140-1878
+rec-2188-id-dup-0,Susan Stanley,358 143 774,5848,Katherine Flat,South Lynnside,Alberta,38708,1972-12-27,648-140-1878
+rec-2188-id-dup-1,Susan Stanley,358 143 774,5848,Katherine Flat,South Lynnside,Alberta,38708,1972-12-27,648-140-1878
+rec-2188-id-dup-2,Susan Stanley,358 143 774,5848,Flat Katherine,South Lynnside,Alberta,38708,1972-12-27,648-140-1878
+rec-2189-id,Ryan Blackwell,106 451 461,9961,Sullivan Trace,South Markshire,Saskatchewan,36889,1987-12-03,547.088.7409
+rec-2189-id-dup-0,Ryan Blackwell,106 451 461,9961,,South Markshire,Saskatchewan,36889,1987-12-03,547.088.7409
+rec-2189-id-dup-1,Ryan Blackwell,106 451 461,9961,Sullivan T race,South Markshire,Saskatchewan,36889,1987-12-03,547.088.7409
+rec-2189-id-dup-2,Ryan Blackwell,106 451 461,9961,Trace Sullivan,South Markshire,Saskatchewan,36889,1987-12-03,547.088.7409
+rec-2190-id,Shannon Mata,806 228 177,64626,Mitchell Mill,South Jenniferview,Ontario,00638,2012-01-26,451-733-6936 x718
+rec-2190-id-dup-0,Shannon Mata,806 228 177,64626,Cynthia Court,South Jenniferview,Ontario,00638,2012-01-26,451-733-6936 x718
+rec-2190-id-dup-1,Shannon Mata,806 228 177,64626,Yates Groves,South Jenniferview,Ontario,00638,2012-01-26,451-733-6936 x718
+rec-2191-id,Lauren Gray,322 014 739,610,Smith Isle,West Carolberg,Northwest Territories,42248,2016-11-24,534 250 5619
+rec-2191-id-dup-0,Lauren Gray,322 014 739,610,Smith I sle,West Carolberg,Northwest Territories,42248,2016-11-24,534 250 5619
+rec-2191-id-dup-1,Lauren Gray,322 014 739,610,Isle Smith,West Carolberg,Northwest Territories,42248,2016-11-24,534 250 5619
+rec-2191-id-dup-2,Lauren Gray,322 014 739,610,Smith I sle,West Carolberg,Northwest Territories,42248,2016-11-24,534 250 5619
+rec-2192-id,Larry Li,755 466 406,31238,Moore Flats,Erinstad,Alberta,67919,1984-01-04,387.249.6676
+rec-2192-id-dup-0,Larry Li,755 466 406,31238,,Erinstad,Alberta,67919,1984-01-04,387.249.6676
+rec-2192-id-dup-1,Larry Li,755 466 406,31238,,Erinstad,Alberta,67919,1984-01-04,387.249.6676
+rec-2192-id-dup-2,Larry Li,755 466 406,31238,Moore lFats,Erinstad,Alberta,67919,1984-01-04,387.249.6676
+rec-2192-id-dup-3,Larry Li,755 466 406,31238,Moore F lats,Erinstad,Alberta,67919,1984-01-04,387.249.6676
+rec-2193-id,Dawn Mcknight,311 467 724,96323,Lauren Trail,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2193-id-dup-0,Dawn Mcknight,311 467 724,96323,Trail Lauren,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2193-id-dup-1,Dawn Mcknight,311 467 724,96323,Lauren Trail,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2193-id-dup-2,Dawn Mcknight,311 467 724,96323,Dean Rest,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2193-id-dup-3,Dawn Mcknight,311 467 724,96323,Lauren T rail,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2193-id-dup-4,Dawn Mcknight,311 467 724,96323,Lauren T rail,New Reginamouth,Nunavut,42833,1972-07-23,(982) 253-0313 x347
+rec-2194-id,Dustin Ellis,418 653 085,3220,Daniel Loaf,North Candacestad,Prince Edward Island,47296,1980-07-21,(370) 431-3474
+rec-2194-id-dup-0,Dustin Ellis,418 653 085,3220,Daniel L oaf,North Candacestad,Prince Edward Island,47296,1980-07-21,(370) 431-3474
+rec-2194-id-dup-1,Dustin Ellis,418 653 085,3220,Edward Forge,North Candacestad,Prince Edward Island,47296,1980-07-21,(370) 431-3474
+rec-2194-id-dup-2,Dustin Ellis,418 653 085,3220,Heather Court,North Candacestad,Prince Edward Island,47296,1980-07-21,(370) 431-3474
+rec-2195-id,Kathleen Taylor,744 653 106,1911,Andrea Wells,Matthewside,British Columbia,53158,2015-03-22,+1 (981) 899-3054
+rec-2195-id-dup-0,Kathleen Taylor,744 653 106,1911,Andrea Wells,Matthewside,British Columbia,53158,2015-03-22,+1 (981) 899-3054
+rec-2195-id-dup-1,Kathleen Taylor,744 653 106,1911,Anthony Forest,Matthewside,British Columbia,53158,2015-03-22,+1 (981) 899-3054
+rec-2195-id-dup-2,Kathleen Taylor,744 653 106,1911,,Matthewside,British Columbia,53158,2015-03-22,+1 (981) 899-3054
+rec-2195-id-dup-3,Kathleen Taylor,744 653 106,1911,Wells Andrea,Matthewside,British Columbia,53158,2015-03-22,+1 (981) 899-3054
+rec-2196-id,Tara Miller MD,725 064 117,6870,James Expressway,Bakermouth,Saskatchewan,55543,2005-01-30,+1 (246) 348-6384
+rec-2196-id-dup-0,Tara Miller MD,725 064 117,6870,James Expr essway,Bakermouth,Saskatchewan,55543,2005-01-30,+1 (246) 348-6384
+rec-2196-id-dup-1,Miller Tara MD,725 064 117,6870,James Expressway,Bakermouth,Saskatchewan,55543,2005-01-30,+1 (246) 348-6384
+rec-2196-id-dup-2,Mary Jacobs,725 064 117,6870,James Expressway,Bakermouth,Saskatchewan,55543,2005-01-30,+1 (246) 348-6384
+rec-2197-id,Evan Gould,462 710 740,3398,Laura Rue,Tonyaside,New Brunswick,02428,2007-11-08,(681) 545-1491
+rec-2197-id-dup-0,Evan Gould,462 710 740,3398,Laura Rue,Tonyaside,New Brunswick,02428,2007-11-08,(681) 545-1491
+rec-2197-id-dup-1,Evan Gould,462 710 740,3398,Laura Rue,Tonyaside,New Brunswick,02428,2007-11-08,(681) 545-1491
+rec-2197-id-dup-2,Evan Gould,462 710 740,3398,Laura Rue,Tonyaside,New Brunswick,02428,2007-11-08,(681) 545-1491
+rec-2198-id,Stephen Wade,250 473 329,5787,Brandon Throughway,New Ryanbury,Ontario,28451,2005-01-30,142-772-6508 x938
+rec-2198-id-dup-0,Stephen Wade,250 473 329,5787,Brandon hTroughway,New Ryanbury,Ontario,28451,2005-01-30,142-772-6508 x938
+rec-2198-id-dup-1,Stephen Wade,250 473 329,5787,Brandon Th roughway,New Ryanbury,Ontario,28451,2005-01-30,142-772-6508 x938
+rec-2198-id-dup-2,Stephen Wade,250 473 329,5787,Jeffrey Crest,New Ryanbury,Ontario,28451,2005-01-30,142-772-6508 x938
+rec-2199-id,Alexis Morgan,082 385 527,6327,Michelle Park,East Keithport,Northwest Territories,28004,1988-02-03,831 293 2547
+rec-2199-id-dup-0,Alexis Morgan,082 385 527,6327,Kenneth Run,East Keithport,Northwest Territories,28004,1988-02-03,831 293 2547
+rec-2199-id-dup-1,Alexis Morgan,082 385 527,6327,Michell e Park,East Keithport,Northwest Territories,28004,1988-02-03,831 293 2547
+rec-2199-id-dup-2,Alexis Morgan,082 385 527,6327,,East Keithport,Northwest Territories,28004,1988-02-03,831 293 2547
+rec-2199-id-dup-3,Alexis Morgan,082 385 527,6327,Raymond Flats,East Keithport,Northwest Territories,28004,1988-02-03,831 293 2547
+rec-2200-id,Mary Horn,028 168 177,371,Erin Brooks,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2200-id-dup-0,Mary Horn,028 168 177,371,Brooks Erin,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2200-id-dup-1,Mary Horn,028 168 177,371,Erin B rooks,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2200-id-dup-2,Mary Horn,028 168 177,371,Brooks Erin,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2200-id-dup-3,Mary Ho rn,028 168 177,371,Erin Brooks,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2200-id-dup-4,Mary Horn,028 168 177,371,Brooks Erin,Erictown,Alberta,23100,1971-08-01,991 140 2238
+rec-2201-id,Christine Russell,418 338 174,1948,Pamela Stravenue,Smithtown,Yukon Territory,05993,1983-11-03,984.885.1387
+rec-2201-id-dup-0,Christine Russell,418 338 174,1948,Stravenue Pamela,Smithtown,Yukon Territory,05993,1983-11-03,984.885.1387
+rec-2201-id-dup-1,Christine Russell,418 338 174,1948,,Smithtown,Yukon Territory,05993,1983-11-03,984.885.1387
+rec-2201-id-dup-2,Christine Russell,418 338 174,1948,,Smithtown,Yukon Territory,05993,1983-11-03,984.885.1387
+rec-2201-id-dup-3,Christine Russell,418 338 174,1948,,Smithtown,Yukon Territory,05993,1983-11-03,984.885.1387
+rec-2202-id,Alan Hale,814 856 134,344,Jonathan Roads,West Melissa,New Brunswick,74188,2014-12-18,1 (691) 643-7320
+rec-2202-id-dup-0,Alan Hale,814 856 134,344,Fry Circles,West Melissa,New Brunswick,74188,2014-12-18,1 (691) 643-7320
+rec-2202-id-dup-1,Alan Hale,814 856 134,344,,West Melissa,New Brunswick,74188,2014-12-18,1 (691) 643-7320
+rec-2202-id-dup-2,Alan Hale,814 856 134,344,Jonathan Roads,West Melissa,New Brunswick,74188,2014-12-18,1 (691) 643-7320
+rec-2202-id-dup-3,Alan Hale,814 856 134,344,Roads Jonathan,West Melissa,New Brunswick,74188,2014-12-18,1 (691) 643-7320
+rec-2203-id,Peter Underwood,618 552 061,0224,Annette Ranch,North Benjaminburgh,Quebec,46839,1984-02-05,170-896-5180 x373
+rec-2203-id-dup-0,Peter Underwood,618 552 061,0224,Annette R anch,North Benjaminburgh,Quebec,46839,1984-02-05,170-896-5180 x373
+rec-2203-id-dup-1,Peter Underwood,618 552 061,0224,Annette aRnch,North Benjaminburgh,Quebec,46839,1984-02-05,170-896-5180 x373
+rec-2203-id-dup-2,Peter Underwood,618 552 061,0224,,North Benjaminburgh,Quebec,46839,1984-02-05,170-896-5180 x373
+rec-2204-id,Jonathan Wood,643 207 285,2100,Frazier Knoll,Lisamouth,Nova Scotia,05725,1982-03-06,1 (889) 974-1736
+rec-2204-id-dup-0,Jonathan Wood,643 207 285,2100,Colleen Glens,Lisamouth,Nova Scotia,05725,1982-03-06,1 (889) 974-1736
+rec-2204-id-dup-1,Jonathan Wood,643 207 285,2100,Kenneth Glens,Lisamouth,Nova Scotia,05725,1982-03-06,1 (889) 974-1736
+rec-2204-id-dup-2,Jonathan Wood,643 207 285,2100,,Lisamouth,Nova Scotia,05725,1982-03-06,1 (889) 974-1736
+rec-2204-id-dup-3,Jonathan Wood,643 207 285,2100,Frazier Knoll,Lisamouth,Nova Scotia,05725,1982-03-06,1 (889) 974-1736
+rec-2205-id,Joel Coleman,168 108 439,958,Floyd Ways,West Denisetown,New Brunswick,12419,2012-06-20,(587) 117-9782
+rec-2205-id-dup-0,Joel Coleman,168 108 439,958,Floyd W ays,West Denisetown,New Brunswick,12419,2012-06-20,(587) 117-9782
+rec-2205-id-dup-1,Joel Coleman,168 108 439,958,Charles Knolls,West Denisetown,New Brunswick,12419,2012-06-20,(587) 117-9782
+rec-2206-id,Alexis Thomas,130 627 482,534,Brian Manor,Bishopfort,Quebec,74175,2010-12-15,254.654.5201
+rec-2206-id-dup-0,Alexis Thomas,130 627 482,534,Brian Plains,Bishopfort,Quebec,74175,2010-12-15,254.654.5201
+rec-2206-id-dup-1,Alexis Thomas,130 627 482,534,,Bishopfort,Quebec,74175,2010-12-15,254.654.5201
+rec-2206-id-dup-2,Alexis Thomas,130 627 482,534,Brian Manor,Bishopfort,Quebec,74175,2010-12-15,254.654.5201
+rec-2206-id-dup-3,Alexis Thomas,130 627 482,534,Brian M anor,Bishopfort,Quebec,74175,2010-12-15,254.654.5201
+rec-2207-id,Melanie Mitchell,458 856 010,430,Richard Fords,Lake Dakotaburgh,British Columbia,22551,2002-05-09,(944) 618-4900
+rec-2207-id-dup-0,Melanie Mitchell,458 856 010,430,Richard Fords,Lake Dakotaburgh,British Columbia,22551,2002-05-09,(944) 618-4900
+rec-2207-id-dup-1,Melanie Mitchell,458 856 010,430,Richard F ords,Lake Dakotaburgh,British Columbia,22551,2002-05-09,(944) 618-4900
+rec-2207-id-dup-2,Melanie Mitchell,458 856 010,430,Richard Fords,Lake Dakotaburgh,British Columbia,22551,2002-05-09,(944) 618-4900
+rec-2207-id-dup-3,Melanie Mitchell,458 856 010,430,Fords Richard,Lake Dakotaburgh,British Columbia,22551,2002-05-09,(944) 618-4900
+rec-2208-id,Alicia Johnson,208 266 551,661,Walters Route,West Josephport,Northwest Territories,93035,1996-09-24,377 264 7547
+rec-2208-id-dup-0,Alicia Johnson,208 266 551,661,Walters Route,West Josephport,Northwest Territories,93035,1996-09-24,377 264 7547
+rec-2208-id-dup-1,Alicia Johnson,208 266 551,661,,West Josephport,Northwest Territories,93035,1996-09-24,377 264 7547
+rec-2208-id-dup-2,Alicia Johnson,208 266 551,661,WaltersR oute,West Josephport,Northwest Territories,93035,1996-09-24,377 264 7547
+rec-2208-id-dup-3,Alicia Johnson,208 266 551,661,Walters Route,West Josephport,Northwest Territories,93035,1996-09-24,377 264 7547
+rec-2209-id,Melinda James MD,234 458 057,53779,Johnson Harbor,Ronaldborough,Manitoba,07582,1971-10-07,1 (189) 055-4806
+rec-2209-id-dup-0,Melinda James MD,234 458 057,53779,Harbor Johnson,Ronaldborough,Manitoba,07582,1971-10-07,1 (189) 055-4806
+rec-2209-id-dup-1,Melinda James MD,234 458 057,53779,Harbor Johnson,Ronaldborough,Manitoba,07582,1971-10-07,1 (189) 055-4806
+rec-2210-id,Gabriel Thompson,144 160 587,90295,Jennifer Trail,Lake Christopherland,Saskatchewan,17236,2006-11-26,125 979 8521
+rec-2210-id-dup-0,Gabriel Thompson,144 160 587,90295,Delacruz Divide,Lake Christopherland,Saskatchewan,17236,2006-11-26,125 979 8521
+rec-2210-id-dup-1,Gabriel Thompson,144 160 587,90295,,Lake Christopherland,Saskatchewan,17236,2006-11-26,125 979 8521
+rec-2211-id,Justin Washington,668 112 584,627,Patricia Plaza,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2211-id-dup-0,Becky Robinson,668 112 584,627,Patricia Plaza,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2211-id-dup-1,Justin Washington,668 112 584,627,Patricia Plaza,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2211-id-dup-2,Justin Washington,668 112 584,627,Patricia Plaza,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2211-id-dup-3,Justin Washington,668 112 584,627,Patricia Plaza,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2211-id-dup-4,Justin Washington,668 112 584,627,Gill Springs,Lake Anthony,British Columbia,73272,2010-03-31,1-844-444-1849
+rec-2212-id,Jason Flores,667 152 045,280,Lin Coves,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2212-id-dup-0,Jason Flores,667 152 045,280,Lin Coves,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2212-id-dup-1,Jason Flores,667 152 045,280,,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2212-id-dup-2,Jason Flores,667 152 045,280,Michael Vista,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2212-id-dup-3,,667 152 045,280,Lin Coves,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2212-id-dup-4,Jason Flores,667 152 045,280,Lin Coves,North Luke,British Columbia,95134,1979-01-28,329.340.7697
+rec-2213-id,Austin Johnson,308 258 110,379,Suzanne Shoal,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2213-id-dup-0,Austin Johnson,308 258 110,379,Suzanne S hoal,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2213-id-dup-1,Austin Johnson,308 258 110,379,Suzann e Shoal,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2213-id-dup-2,Austin Johnson,308 258 110,379,Suzanne Sghoal,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2213-id-dup-3,Austin Johnson,308 258 110,379,Frederick Haven,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2213-id-dup-4,Austin Johnson,308 258 110,379,Suzanne S hoal,New Angelatown,Prince Edward Island,89433,1996-11-05,701 647 7200
+rec-2214-id,Joel Miller,128 708 336,6124,French Rapids,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2214-id-dup-0,Joel Miller,128 708 336,6124,French Rapids,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2214-id-dup-1,Joel Miller,128 708 336,6124,French Rapids,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2214-id-dup-2,Joel Miller,128 708 336,6124,Latoya Curve,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2214-id-dup-3,Joel Miller,128 708 336,6124,French Rapids,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2214-id-dup-4,Joel Miller,128 708 336,6124,Lee Valleys,Port Kenneth,Northwest Territories,39497,1985-12-03,1-979-145-6308
+rec-2215-id,Jack Williams,184 406 676,5096,Ryan Route,Williamschester,Yukon Territory,19566,1984-03-01,1-118-351-4261
+rec-2215-id-dup-0,,184 406 676,5096,Ryan Route,Williamschester,Yukon Territory,19566,1984-03-01,1-118-351-4261
+rec-2215-id-dup-1,Jack Williams,184 406 676,5096,,Williamschester,Yukon Territory,19566,1984-03-01,1-118-351-4261
+rec-2216-id,Mario Hale,106 427 768,4562,Mcbride Streets,North Donnastad,Ontario,43778,1998-03-09,+1 (426) 647-9254
+rec-2216-id-dup-0,Mario Hale,106 427 768,4562,Griffith Brooks,North Donnastad,Ontario,43778,1998-03-09,+1 (426) 647-9254
+rec-2216-id-dup-1,Mario Hale,106 427 768,4562,,North Donnastad,Ontario,43778,1998-03-09,+1 (426) 647-9254
+rec-2217-id,Emma Rich,672 588 308,453,Davis Springs,New Jonathan,British Columbia,78708,1984-11-27,1-144-653-1387
+rec-2217-id-dup-0,Emma Rich,672 588 308,453,Davis Sp rings,New Jonathan,British Columbia,78708,1984-11-27,1-144-653-1387
+rec-2217-id-dup-1,Emma Rich,672 588 308,453,Davis Spirngs,New Jonathan,British Columbia,78708,1984-11-27,1-144-653-1387
+rec-2218-id,Michele Parsons,443 711 031,9457,Mark Wells,Jodyside,Quebec,12225,2007-05-29,(430) 609-6256
+rec-2218-id-dup-0,Michele Parsons,443 711 031,9457,Mark W ells,Jodyside,Quebec,12225,2007-05-29,(430) 609-6256
+rec-2218-id-dup-1,Michele Parsons,443 711 031,9457,Mark W ells,Jodyside,Quebec,12225,2007-05-29,(430) 609-6256
+rec-2218-id-dup-2,Michele Parsons,443 711 031,9457,,Jodyside,Quebec,12225,2007-05-29,(430) 609-6256
+rec-2219-id,Cheryl Salazar,522 388 354,9872,Randall Radial,Lake Jamesshire,Nunavut,03245,2016-06-11,1 (276) 438-3022
+rec-2219-id-dup-0,Cheryl Salazar,522 388 354,9872,Smith Street,Lake Jamesshire,Nunavut,03245,2016-06-11,1 (276) 438-3022
+rec-2219-id-dup-1,Cheryl Salazar,522 388 354,9872,Randall Radial,Lake Jamesshire,Nunavut,03245,2016-06-11,1 (276) 438-3022
+rec-2220-id,Daniel Jones,872 208 137,00601,Walker Spur,Nicholaston,Ontario,66374,2010-12-12,109 084 8470
+rec-2220-id-dup-0,Daniel Jones,872 208 137,00601,,Nicholaston,Ontario,66374,2010-12-12,109 084 8470
+rec-2220-id-dup-1,Steven Williams,872 208 137,00601,Walker Spur,Nicholaston,Ontario,66374,2010-12-12,109 084 8470
+rec-2220-id-dup-2,Daniel Jones,872 208 137,00601,Walker Spur,Nicholaston,Ontario,66374,2010-12-12,109 084 8470
+rec-2221-id,Heidi Marshall,170 834 436,939,Larson Road,Harrisonview,Nova Scotia,24902,1971-08-09,879-386-5177
+rec-2221-id-dup-0,Heidi Marshall,170 834 436,939,Larson Road,Harrisonview,Nova Scotia,24902,1971-08-09,879-386-5177
+rec-2221-id-dup-1,Heidi Marshall,170 834 436,939,Road Larson,Harrisonview,Nova Scotia,24902,1971-08-09,879-386-5177
+rec-2222-id,Jordan Moreno,831 702 717,012,Brian Crossing,Murphytown,Ontario,88720,1978-07-01,772.421.7455
+rec-2222-id-dup-0,Jordan Moreno,831 702 717,012,Brian Cr ossing,Murphytown,Ontario,88720,1978-07-01,772.421.7455
+rec-2222-id-dup-1,Nathan Shaw,831 702 717,012,Brian Crossing,Murphytown,Ontario,88720,1978-07-01,772.421.7455
+rec-2222-id-dup-2,Jordan Moreno,831 702 717,012,Victor Stream,Murphytown,Ontario,88720,1978-07-01,772.421.7455
+rec-2222-id-dup-3,Jordan Moreno,831 702 717,012,Brian Cro ssing,Murphytown,Ontario,88720,1978-07-01,772.421.7455
+rec-2223-id,Joseph Williams,172 208 340,6824,Victoria Valleys,Port Timothymouth,Yukon Territory,92620,2012-11-30,310 220 2275
+rec-2223-id-dup-0,Joseph Williams,172 208 340,6824,Victoria Valleys,Port Timothymouth,Yukon Territory,92620,2012-11-30,310 220 2275
+rec-2223-id-dup-1,Joseph Wi lliams,172 208 340,6824,Victoria Valleys,Port Timothymouth,Yukon Territory,92620,2012-11-30,310 220 2275
+rec-2223-id-dup-2,Joseph Williams,172 208 340,6824,Stephanie Estates,Port Timothymouth,Yukon Territory,92620,2012-11-30,310 220 2275
+rec-2223-id-dup-3,Joseph Williams,172 208 340,6824,,Port Timothymouth,Yukon Territory,92620,2012-11-30,310 220 2275
+rec-2224-id,Meghan Conway,352 703 482,1698,Dennis Stravenue,Lindaborough,Northwest Territories,83711,2013-10-08,(745) 408-9975 x400
+rec-2224-id-dup-0,Meghan Conway,352 703 482,1698,Cox Square,Lindaborough,Northwest Territories,83711,2013-10-08,(745) 408-9975 x400
+rec-2224-id-dup-1,Meghan Conway,352 703 482,1698,Dennis St ravenue,Lindaborough,Northwest Territories,83711,2013-10-08,(745) 408-9975 x400
+rec-2225-id,Justin Williams,766 744 114,56179,Juarez Ford,Port Jeremyborough,New Brunswick,72539,1983-08-28,1-266-036-2257
+rec-2225-id-dup-0,Justin Williams,766 744 114,56179,Juarez Ford,Port Jeremyborough,New Brunswick,72539,1983-08-28,1-266-036-2257
+rec-2225-id-dup-1,Justin Williams,766 744 114,56179,Juarez Ford,Port Jeremyborough,New Brunswick,72539,1983-08-28,1-266-036-2257
+rec-2225-id-dup-2,Justin Williams,766 744 114,56179,Juarez F ord,Port Jeremyborough,New Brunswick,72539,1983-08-28,1-266-036-2257
+rec-2225-id-dup-3,Justin Williams,766 744 114,56179,,Port Jeremyborough,New Brunswick,72539,1983-08-28,1-266-036-2257
+rec-2226-id,Amber Shah,681 744 264,907,Renee Springs,West Sharonstad,Ontario,37592,1990-02-22,(354) 195-5754
+rec-2226-id-dup-0,Amber Shah,681 744 264,907,Renee Sp rings,West Sharonstad,Ontario,37592,1990-02-22,(354) 195-5754
+rec-2226-id-dup-1,Amber Shah,681 744 264,907,Springs Renee,West Sharonstad,Ontario,37592,1990-02-22,(354) 195-5754
+rec-2226-id-dup-2,Amber Shah,681 744 264,907,Jones Lakes,West Sharonstad,Ontario,37592,1990-02-22,(354) 195-5754
+rec-2227-id,Jason Flores,056 827 827,01902,Joshua Crossing,Meganchester,Manitoba,89214,1987-01-03,1 (782) 618-2316
+rec-2227-id-dup-0,Flores Jason,056 827 827,01902,Joshua Crossing,Meganchester,Manitoba,89214,1987-01-03,1 (782) 618-2316
+rec-2227-id-dup-1,Jason Flores,056 827 827,01902,Bryan Landing,Meganchester,Manitoba,89214,1987-01-03,1 (782) 618-2316
+rec-2227-id-dup-2,Jason Flores,056 827 827,01902,Crossing Joshua,Meganchester,Manitoba,89214,1987-01-03,1 (782) 618-2316
+rec-2227-id-dup-3,Jason Flores,056 827 827,01902,Crossing Joshua,Meganchester,Manitoba,89214,1987-01-03,1 (782) 618-2316
+rec-2228-id,Kristen Williamson,376 185 484,9552,Catherine Rue,North Michael,Nunavut,67511,1989-02-26,720 406 1375
+rec-2228-id-dup-0,Kristen Williamson,376 185 484,9552,Catheri ne Rue,North Michael,Nunavut,67511,1989-02-26,720 406 1375
+rec-2228-id-dup-1,Kristen Williamson,376 185 484,9552,Catheri ne Rue,North Michael,Nunavut,67511,1989-02-26,720 406 1375
+rec-2228-id-dup-2,Kristen Williamson,376 185 484,9552,Catherine Rue,North Michael,Nunavut,67511,1989-02-26,720 406 1375
+rec-2228-id-dup-3,Kristen Williamson,376 185 484,9552,Catherine Rue,North Michael,Nunavut,67511,1989-02-26,720 406 1375
+rec-2229-id,James Harrison,447 330 176,8556,Claudia Mountains,Simmonsbury,New Brunswick,21033,1974-10-26,1-157-294-8040
+rec-2229-id-dup-0,James Harrison,447 330 176,8556,Claudia Mountains,Simmonsbury,New Brunswick,21033,1974-10-26,1-157-294-8040
+rec-2229-id-dup-1,James Harrison,447 330 176,8556,Claudia M ountains,Simmonsbury,New Brunswick,21033,1974-10-26,1-157-294-8040
+rec-2229-id-dup-2,James Harrison,447 330 176,8556,Claudia Mountains,Simmonsbury,New Brunswick,21033,1974-10-26,1-157-294-8040
+rec-2229-id-dup-3,James Harrison,447 330 176,8556,Claudia Mountains,Simmonsbury,New Brunswick,21033,1974-10-26,1-157-294-8040
+rec-2230-id,Michelle Flores,745 530 626,8133,Madden Shoal,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2230-id-dup-0,Michelle Flores,745 530 626,8133,Madden Shoal,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2230-id-dup-1,Michelle Flores,745 530 626,8133,Flynn Village,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2230-id-dup-2,Michelle Flores,745 530 626,8133,,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2230-id-dup-3,Michelle Flores,745 530 626,8133,Madden Shoal,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2230-id-dup-4,Michelle Flores,745 530 626,8133,,Port Jamesfurt,Nunavut,58267,1992-01-02,345 519 7814
+rec-2231-id,Lori Dawson,013 345 582,96889,Ortega Key,New Alexis,Nova Scotia,43151,2003-07-31,+1 (733) 736-5607
+rec-2231-id-dup-0,Lori Dawson,013 345 582,96889,Key Ortega,New Alexis,Nova Scotia,43151,2003-07-31,+1 (733) 736-5607
+rec-2231-id-dup-1,Lori Dawson,013 345 582,96889,Roman Route,New Alexis,Nova Scotia,43151,2003-07-31,+1 (733) 736-5607
+rec-2231-id-dup-2,Mark Levy,013 345 582,96889,Ortega Key,New Alexis,Nova Scotia,43151,2003-07-31,+1 (733) 736-5607
+rec-2231-id-dup-3,Lori Dawson,013 345 582,96889,Orteg a Key,New Alexis,Nova Scotia,43151,2003-07-31,+1 (733) 736-5607
+rec-2232-id,David Myers,714 403 375,8334,Collins Green,Kellyborough,British Columbia,13561,2005-07-09,+1 (630) 761-6459
+rec-2232-id-dup-0,David Myers,714 403 375,8334,Deleon Knolls,Kellyborough,British Columbia,13561,2005-07-09,+1 (630) 761-6459
+rec-2232-id-dup-1,David Myers,714 403 375,8334,Shepard Corners,Kellyborough,British Columbia,13561,2005-07-09,+1 (630) 761-6459
+rec-2232-id-dup-2,David Myers,714 403 375,8334,Green Collins,Kellyborough,British Columbia,13561,2005-07-09,+1 (630) 761-6459
+rec-2232-id-dup-3,David Myers,714 403 375,8334,Bentley Cape,Kellyborough,British Columbia,13561,2005-07-09,+1 (630) 761-6459
+rec-2233-id,Adam Collins,328 107 735,5680,King Centers,North Dakotaport,Quebec,81016,1979-07-24,468-446-5160
+rec-2233-id-dup-0,Adam Collins,328 107 735,5680,King C enters,North Dakotaport,Quebec,81016,1979-07-24,468-446-5160
+rec-2233-id-dup-1,Adam Collins,328 107 735,5680,King Cehnters,North Dakotaport,Quebec,81016,1979-07-24,468-446-5160
+rec-2233-id-dup-2,Adam Collins,328 107 735,5680,Centers King,North Dakotaport,Quebec,81016,1979-07-24,468-446-5160
+rec-2234-id,Shannon Johnston,125 401 737,2078,Kennedy Isle,Ramosbury,Alberta,02243,2015-04-01,(769) 812-6923 x593
+rec-2234-id-dup-0,Shannon Johnston,125 401 737,2078,,Ramosbury,Alberta,02243,2015-04-01,(769) 812-6923 x593
+rec-2234-id-dup-1,Shannon Johnston,125 401 737,2078,,Ramosbury,Alberta,02243,2015-04-01,(769) 812-6923 x593
+rec-2234-id-dup-2,Shannon Johnston,125 401 737,2078,Kenned y Isle,Ramosbury,Alberta,02243,2015-04-01,(769) 812-6923 x593
+rec-2234-id-dup-3,Shannon Johnston,125 401 737,2078,Kennedy Isle,Ramosbury,Alberta,02243,2015-04-01,(769) 812-6923 x593
+rec-2235-id,Jonathan Ramirez,288 760 127,809,Miller Branch,New Kimberlymouth,Northwest Territories,45188,1975-01-17,(953) 976-4914
+rec-2235-id-dup-0,Jonathan Ramirez,288 760 127,809,Branch Miller,New Kimberlymouth,Northwest Territories,45188,1975-01-17,(953) 976-4914
+rec-2236-id,Jessica Andrews,753 154 020,0451,Brown Lake,East Alecburgh,Saskatchewan,11010,1992-03-08,(737) 529-1300 x711
+rec-2236-id-dup-0,Jessica Andrews,753 154 020,0451,Smith Street,East Alecburgh,Saskatchewan,11010,1992-03-08,(737) 529-1300 x711
+rec-2236-id-dup-1,Jessica Andrews,753 154 020,0451,Brown aLke,East Alecburgh,Saskatchewan,11010,1992-03-08,(737) 529-1300 x711
+rec-2236-id-dup-2,Jessica Andrews,753 154 020,0451,Brown4 Lake,East Alecburgh,Saskatchewan,11010,1992-03-08,(737) 529-1300 x711
+rec-2236-id-dup-3,Jessica Andrews,753 154 020,0451,Barry Squares,East Alecburgh,Saskatchewan,11010,1992-03-08,(737) 529-1300 x711
+rec-2237-id,Terry Hernandez,055 322 341,43464,Costa Valleys,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2237-id-dup-0,Shelly Cross,055 322 341,43464,Costa Valleys,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2237-id-dup-1,Terry Hernandez,055 322 341,43464,Costa Valleys,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2237-id-dup-2,Terry Hernandez,055 322 341,43464,Holly Mount,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2237-id-dup-3,Terry Hernandez,055 322 341,43464,Valleys Costa,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2237-id-dup-4,Terry Hernandez,055 322 341,43464,Costa Valleys,South Timothy,Nova Scotia,55489,1972-12-15,(410) 971-2246 x363
+rec-2238-id,Meagan Morales,118 233 071,643,Ashley Burg,East Jasonhaven,Saskatchewan,44573,1995-12-03,+1 (204) 868-7633
+rec-2238-id-dup-0,Meagan Morales,118 233 071,643,Ashley Burg,East Jasonhaven,Saskatchewan,44573,1995-12-03,+1 (204) 868-7633
+rec-2238-id-dup-1,Meagan Morales,118 233 071,643,,East Jasonhaven,Saskatchewan,44573,1995-12-03,+1 (204) 868-7633
+rec-2238-id-dup-2,Meagan Morales,118 233 071,643,Burg Ashley,East Jasonhaven,Saskatchewan,44573,1995-12-03,+1 (204) 868-7633
+rec-2239-id,Kim Thompson,655 082 261,87770,Schneider Shoals,Lake Sallyville,Nunavut,23247,1994-09-25,335-471-7594
+rec-2239-id-dup-0,Kim Thompson,655 082 261,87770,Schneide r Shoals,Lake Sallyville,Nunavut,23247,1994-09-25,335-471-7594
+rec-2239-id-dup-1,Kim Thompson,655 082 261,87770,Shoals Schneider,Lake Sallyville,Nunavut,23247,1994-09-25,335-471-7594
+rec-2240-id,Jason Hernandez,461 420 531,85635,Carlos Meadow,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2240-id-dup-0,Jason Hernandez,461 420 531,85635,,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2240-id-dup-1,Jason Hernandez,461 420 531,85635,Carlos Meadow,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2240-id-dup-2,Jason Hernandez,461 420 531,85635,Carlos Meadow,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2240-id-dup-3,Jason Hernandez,461 420 531,85635,Carlos Meadow,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2240-id-dup-4,Jason Hernandez,461 420 531,85635,Carlos jMeadow,East Matthew,Manitoba,59745,1979-05-10,+1 (218) 393-3093
+rec-2241-id,Robert Barker,227 530 540,0480,Rojas Lock,New Julie,Nunavut,68176,1992-01-05,639 738 5914
+rec-2241-id-dup-0,Robert Barker,227 530 540,0480,Carson Landing,New Julie,Nunavut,68176,1992-01-05,639 738 5914
+rec-2241-id-dup-1,Robert Barker,227 530 540,0480,Ashley Bridge,New Julie,Nunavut,68176,1992-01-05,639 738 5914
+rec-2241-id-dup-2,Robert Barker,227 530 540,0480,Jared Cove,New Julie,Nunavut,68176,1992-01-05,639 738 5914
+rec-2241-id-dup-3,Robert Barker,227 530 540,0480,Lock Rojas,New Julie,Nunavut,68176,1992-01-05,639 738 5914
+rec-2241-id-dup-4,Robert Romero,227 530 540,0480,Rojas Lock,New Julie,Nunavut,68176,1992-01-05,639 738 5914
